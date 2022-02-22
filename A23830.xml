@@ -1,0 +1,2307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preparation for the Lord's Supper to which are added Maxims of true Christianity / written originally in French, by P. Allix ; Englished by P. Lorrain.</title>
+            <title>Préparation à la Sainte Cène. English</title>
+            <author>Allix, Pierre, 1641-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23830</idno>
+            <idno type="STC">Wing A1226</idno>
+            <idno type="STC">ESTC R5280</idno>
+            <idno type="EEBO-CITATION">13484565</idno>
+            <idno type="OCLC">ocm 13484565</idno>
+            <idno type="VID">99726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 781:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preparation for the Lord's Supper to which are added Maxims of true Christianity / written originally in French, by P. Allix ; Englished by P. Lorrain.</title>
+                  <title>Préparation à la Sainte Cène. English</title>
+                  <author>Allix, Pierre, 1641-1717.</author>
+                  <author>Lorrain, P. (Paul), d. 1719.</author>
+               </titleStmt>
+               <extent>[12], 116 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brab. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added t.p. on p. [59]: Epictetus Christianus, or, Maxims of true Christianity. -- London : Printed for Brab. Aylmer ..., 1688.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Christianity --  Quotations, maxims, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:99726:1"/>
+                  <pb facs="tcp:99726:1" rendition="simple:additions"/>
+                  <p>A PREPARATION FOR THE LORD'S SUPPER. To which are Added, MAXIMS
+OF TRUE CHRISTIANITY.</p>
+                  <p>Written Originally in <hi>French,</hi> by <hi>P. Allix.</hi>
+                  </p>
+                  <p>Engliſhed by <hi>P. Lorrain.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>Brab. Aylmer,</hi> at the
+<hi>Three Pigeons</hi> over againſt the <hi>Royal Exchange</hi> in
+<hi>Cornhil,</hi> 1688.</p>
+               </div>
+               <div type="imprimatur">
+                  <pb facs="tcp:99726:2" rendition="simple:additions"/>
+                  <p>IMPRIMATUR,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Jun.</hi> 13. 1687.</date>
+                     </dateline>
+                     <signed>Guil. Needham.</signed>
+                  </closer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:99726:2"/>
+                  <head>TO THE Right Honourable The LADY <hi>MARGARET
+RUSSELL.</hi>
+                  </head>
+                  <opener>
+                     <salute>May it pleaſe Your Honour,</salute>
+                  </opener>
+                  <p>BEING to expoſe this <hi>Tranſlation</hi> to a
+<hi>World,</hi> who generally have a great indifference (not to ſay
+a<g ref="char:EOLhyphen"/>verſion) for the <hi>Myſteries</hi> of OUR RELIGION, eſ<g ref="char:EOLhyphen"/>pecially
+<hi>That</hi> of the HOLY EUCHARIST, and have <pb facs="tcp:99726:3"/>eſpouſed
+<hi>Maxims</hi> quite op<g ref="char:EOLhyphen"/>poſite to <hi>Thoſe</hi> here laid down, I had
+reaſon to be<g ref="char:EOLhyphen"/>lieve it would ſtand in need of a Powerful <hi>Authority</hi>
+to ſupport and vindicate it a<g ref="char:EOLhyphen"/>gainſt the Cavils and Pre<g ref="char:EOLhyphen"/>judices, that in
+the minds of many may riſe againſt the <hi>Subjects</hi> it treats of. And
+as I was looking about for ſuch a PATRONAGE, which (at once) might as well by
+its GREATNESS au<g ref="char:EOLhyphen"/>thorize and commend, as by its GOODNESS ex<g ref="char:EOLhyphen"/>emplifie 
+<pb facs="tcp:99726:3"/>and atteſt <hi>them,</hi> it was my happineſs to fix up<g ref="char:EOLhyphen"/>on YOUR
+HONOUR, who is ſo ſignally and in<g ref="char:EOLhyphen"/>conteſtably poſſeſt of both
+theſe <hi>Advantages.</hi> This, MADAM, was the Con<g ref="char:EOLhyphen"/>ſideration made me
+aſpire to the boldneſs of craving YOUR ILLUSTRI<g ref="char:EOLhyphen"/>OUS NAME, to counte<g ref="char:EOLhyphen"/>nance
+theſe <hi>Papers;</hi> in conde<g ref="char:EOLhyphen"/>ſcending to which, as your HONOUR will do
+ma<g ref="char:EOLhyphen"/>nifeſt <hi>Juſtice</hi> to PIETY, ſo will it be interpreted a 
+<pb facs="tcp:99726:4"/>tranſcendent <hi>Favour</hi> to, and ever acknowledged as ſuch
+by,</p>
+                  <closer>
+                     <salute>May it pleaſe Your Honour,</salute> 
+                     <signed>YOUR HONOUR'S moſt humbly devoted &amp; obedient
+Servant, <hi>Paul Lorrain.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:99726:4"/>
+                  <head>THE PREFACE.</head>
+                  <p>THERE are three Things abſolutely requiſite for the making
+of any one a Worthy and Happy <hi>Communicant.</hi>
+                  </p>
+                  <p n="1">
+                     <hi>1.</hi> HE muſt throughly under<g ref="char:EOLhyphen"/>ſtand thoſe
+Truths, the Memory whereof Our LORD deſign'd to pre<g ref="char:EOLhyphen"/>ſerve in the
+Inſtitution of the Holy <hi>Euchariſt.</hi> For no Man can, with any
+benefit, receive this <hi>Sacrament,</hi> unleſs his Spirit be filled with
+the ſame Thoughts, which Our Saviour did thereby ſuggeſt to his
+<hi>Apo<g ref="char:EOLhyphen"/>ſtles.</hi>
+                  </p>
+                  <pb facs="tcp:99726:5"/>
+                  <p n="2">
+                     <hi>2.</hi> HE ought to have a lively Senſe of thoſe
+Comforts, ariſing from a Conſideration of the Important Truths, which
+CHRIST ſo clearly repreſents to us in the Celebration of this Sacred
+Myſtery; for as much as our Communicating in the LORD'S SUPPER ought not only
+to conſiſt in the having our Spirits poſſeſſed with the Image of
+Him, who was crucifi'd for us; but in our gathering the precious Fruits, which
+accrew to us by his Death.</p>
+                  <p n="3">
+                     <hi>3, and Laſtly.</hi> As it would be an extreme
+Injuſtice for us to be found wanting in our Faithfulneſs, Acknowledgement,
+Love and Obedience to GOD, who ſo graciouſly acquaints us with, and makes
+us ſenſible of theſe Wonders of his Mercy and Compaſſi<g ref="char:EOLhyphen"/>on <pb facs="tcp:99726:5"/>towords us; ſo we may eaſily con<g ref="char:EOLhyphen"/>ceive the Neceſſity,
+Reaſonableneſs, and Extent of the Duties our Par<g ref="char:EOLhyphen"/>ticipation of the Holy
+<hi>Sacrament</hi> en<g ref="char:EOLhyphen"/>gages us to; which we ought, with a Religious Care, to
+diſcharge, through the whole Courſe of our Lives.</p>
+                  <p>NOTHING can therefore be of greater Uſe to
+<hi>Chriſtians,</hi> with reſpect to the Holy <hi>Communion,</hi> than to
+have the great Truths, imply'd in the <hi>Euchariſt,</hi> diſtinctly
+propound<g ref="char:EOLhyphen"/>ed to them, and be made apprehen<g ref="char:EOLhyphen"/>ſive of thoſe delightful Comforts
+treaſur'd up therein, to the end they may thereby be diſpoſed to a ready
+performance of the Duties it layes upon them.</p>
+                  <pb facs="tcp:99726:6"/>
+                  <p>THIS is my Deſign in this ſmall <hi>Treatiſe,</hi> wherein
+I ſhall follow no other Method, than that juſt now hinted at; that is, I
+ſhall,</p>
+                  <p>
+                     <hi>Firſt of all,</hi> endeavour to make out, that the
+<hi>Euchariſt</hi> exhi<g ref="char:EOLhyphen"/>bits the moſt weighty and Fundamen<g ref="char:EOLhyphen"/>tal Points of
+<hi>Chriſtianity</hi> to our View.</p>
+                  <p>
+                     <hi>In the next place,</hi> demonſtrate, that the Meditating
+upon theſe important Verities (which are frequently cal<g ref="char:EOLhyphen"/>led to mind by this
+<hi>Sacrament,</hi> kept up in the Church) is to true <hi>Believ<g ref="char:EOLhyphen"/>ers</hi> a
+Well-Spring of inexhauſtible Comfort, and indefectible Joy.</p>
+                  <p>
+                     <hi>And finally</hi> conclude, with point<g ref="char:EOLhyphen"/>ing at thoſe
+ſeveral Duties, which this Holy Inſtitution does ſo neceſ<g ref="char:EOLhyphen"/>ſarily 
+<pb facs="tcp:99726:6"/>charge us with, that we can<g ref="char:EOLhyphen"/>not neglect the ſame, but at the
+pe<g ref="char:EOLhyphen"/>ril of our Everlaſting Ruin.</p>
+                  <p>To which three things I intend to ſpeak, without entring upon
+any of thoſe Controverſies, which divide <hi>Chriſtians</hi> in this
+Matter; my Deſign here being not (chiefly) to oppoſe Er<g ref="char:EOLhyphen"/>ror, but to excite
+and fortifie their Devotion and Piety, who are alrea<g ref="char:EOLhyphen"/>dy acquainted with the
+<hi>Truth,</hi> though they do not always duly conſi<g ref="char:EOLhyphen"/>der and reflect upon
+it.</p>
+                  <p>GOD grant we may ſo plainly diſcover to them, the Connexion
+there is between the Truths, Conſolations and Duties of <hi>OUR
+RELIGION,</hi> that while they are ſeeking for Com<g ref="char:EOLhyphen"/>fort in the Meditation of
+<hi>DIVINE TRUTHS,</hi> they may at the ſame <pb facs="tcp:99726:7"/>time, meet with
+ſtrong and urgent Motives to apply themſelves, with all Diligence and
+Perſeverance, to the Practice of True Holineſs.</p>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb n="1" facs="tcp:99726:7"/>
+                  <head>A PREPARATION FOR THE <hi>Lord's Supper.</hi>
+                  </head>
+                  <div n="1" type="chapter">
+                     <head>
+                        <hi>CHAP. I.</hi> THE Hiſtory of the Inſtitution of the
+LORD'S S<g ref="char:V">Ʋ</g>PPER.</head>
+                     <p>THE Meaning of Our LORD in his inſtituting of the
+<hi>Fuchariſt,</hi> can no way be better underſtood, than by a careful
+Examination of the Terms He us'd, and the Circumſtances of his
+Diſcourſe.</p>
+                     <p>HIS Words expreſs the Thoughts He would ſuggeſt to the
+Minds of his Apoſtles, and all other Chriſtians after them; and to the end
+we ſhould the better apprehend the Senſe of them, the
+<hi>Evangeliſts</hi> have not only <pb n="2" facs="tcp:99726:8"/>given us a plain
+Relation of his Inſtitution, but been very careful in deſcribing all the
+Circumſtances thereof to us.</p>
+                     <p>THEY therefore acquaint us, that JE<g ref="char:EOLhyphen"/>SUS CHRIST inſtituted
+this Holy Sacra<g ref="char:EOLhyphen"/>ment that ſame Night He was Betrayed, and delivered up to the
+<hi>Jews</hi> by one of his Diſciples, after he had celebrated with them the
+Anniverſary of their Fore-fathers Deliverance out of <hi>Egypt,</hi> in
+eating the <hi>Paſchal Lamb,</hi> according to the Law of God. <hi>Exod.</hi>
+12.</p>
+                     <p>AS to the Form or Manner which CHRIST obſerv'd in his
+Celebrating the <hi>Euchariſt,</hi> the <hi>Evangeliſts</hi> agree, that
+after the <hi>Paſchal Supper,</hi> He took Bread, and having given Thanks,
+brake it, and diſtributed it to his Diſciples, ſaying; <hi>Take, eat,
+this is my Body, which is broken for you; do this in remem<g ref="char:EOLhyphen"/>brance of
+me.</hi>
+                     </p>
+                     <p>THEN they tell us further, that Our Lord having likewiſe
+taken the Cup, and gi<g ref="char:EOLhyphen"/>ven Thanks, He deliver'd it to his Diſci<g ref="char:EOLhyphen"/>ples,
+ſaying, <hi>Drink ye all of this; for this is my Bloud, the Bloud of the New
+Teſtament, which is ſhed for you; do this as often as you drink of it in
+remembrance of me.</hi>
+                     </p>
+                     <p>IN a word, they intimate to us, that the Diſciples did all
+drink of it, and that having ſung an Hymn, they accompany'd <pb n="3" facs="tcp:99726:8"/>JESUS to the Garden of <hi>Gethſemane</hi> on the <hi>Mount</hi> of
+<hi>Olives,</hi> where after his ha<g ref="char:EOLhyphen"/>ving endur'd a moſt Bitter Agony, He was
+laid hold of, in order to be expoſed to all the Reproaches He ſoon after
+ſuffered, both from the <hi>Jews</hi> and <hi>Romans,</hi> and ſinally to
+be crucify'd. Thus ending his Life by a Puniſhment, that was equally painful
+and accurſed.</p>
+                     <p>MOREOVER it appears, that the Deſign of our Lord JESUS
+CHRIST was, That this Ceremony ſhould be in all After<g ref="char:EOLhyphen"/>ages exactly obſerv'd
+in his Church. This may plainly be ſeen, Firſt, From his Sub<g ref="char:EOLhyphen"/>ſtituting it
+to that of the <hi>Paſſover,</hi> which was to continue as long as the
+<hi>Jewiſh</hi> Re<g ref="char:EOLhyphen"/>ligion laſted, as being that which took its Beginning
+from the Riſe, or at leaſt the Grand Deliverance of that People. Secondly,
+Becauſe this Ceremony was to be the Sacrament of a New Covenant, that
+ſhould not be abrogated by any other whatſoever. Thirdly and Laſtly,
+Foraſmuch as the Apoſtle St. <hi>Paul,</hi> who had been rapt up into the
+Third Heaven, there to be further acquainted with the great Myſtery of Faith,
+informs the Be<g ref="char:EOLhyphen"/>lievers, that they ought to declare, that is (according to the
+<hi>Jewiſh</hi> way of ſpeaking) to celebrate the Memory of 
+<pb n="4" facs="tcp:99726:9"/>CHRIST's Death, untill his Com<g ref="char:EOLhyphen"/>ing again, that is, to the End
+of the World, when he ſhall return from Hea<g ref="char:EOLhyphen"/>ven to judge both the Quick and
+the Dead, in order to the Completion of his Promiſes, and our Hopes.</p>
+                  </div>
+                  <div n="2" type="chapter">
+                     <head>
+                        <hi>CHAP. II.</hi> That JES<g ref="char:V">Ʋ</g>S CHRIST borrow'd the Actions
+and Expreſſions HE made uſe of in the Inſtitution of the
+<hi>Eu<g ref="char:EOLhyphen"/>chariſt,</hi> from the <hi>Jews.</hi>
+                     </head>
+                     <p>THERE are two ſorts of Reflections may be made upon the
+Inſtitution of the <hi>Lord's Supper.</hi> Some do ſerve to explain the
+Letter, and out-ſide of this Sacrament; and others, again inform us of the
+great Aim and Deſign of it. I be<g ref="char:EOLhyphen"/>gin with the Firſt.</p>
+                     <pb n="5" facs="tcp:99726:9"/>
+                     <p>AS it is well known, that in the Inſtitu<g ref="char:EOLhyphen"/>tion of
+<hi>Baptiſm,</hi> CHRIST borrowed the Rite of Waſhing, practiſed by the
+<hi>Jews</hi> on thoſe <hi>Gentiles</hi> they admitted to the Publick
+Profeſſion of <hi>Judaiſm;</hi> ſo it is as plain, that our Saviour in
+the Inſtitution of his Holy Supper, did ſo far comply with the
+<hi>Jewiſh</hi> Cuſtoms, after the Cele<g ref="char:EOLhyphen"/>bration of their
+<hi>Paſſover</hi> (yet raiſing ſome of them to a much more excellent
+Senſe, than they had before) that He follow'd cloſely the Notions and
+Expreſſions of the <hi>Jews.</hi>
+                     </p>
+                     <p>TO clear this, we muſt know that the Evening of the
+<hi>Paſſover,</hi> the Maſter of the Houſe began this Solemnity with
+Praiſes to God, holding in his Hand a Cup of Wine, whereof himſelf having
+firſt drunk, he gave it to all the Company.</p>
+                     <p>AFTER this, inſtead of the uſual Bleſ<g ref="char:EOLhyphen"/>ſing of the
+Bread, he was wont to take an unleavened Cake in his Hand, ſaying, <hi>This
+is the Bread of Affliction, which our Fa<g ref="char:EOLhyphen"/>thers did Eat in</hi> Egypt. Words
+that had a Natural Relation to the Hiſtory of their Bondage and Deliverance
+of old.</p>
+                     <p>I omit the whole Ceremony of the <hi>Paſchal Lamb,</hi>
+which is deſcribed in the 12th. Chapter of <hi>Exodus,</hi> and ſhall only
+remark, that after this Feaſt the Maſter <pb n="6" facs="tcp:99726:10"/>of the Houſe
+was us'd to take the Cup a<g ref="char:EOLhyphen"/>gain, which at firſt he had conſecrated, and
+having given thanks, to preſent it to the Participants, ſaying to them,
+that That was the Fruit of the Vine, and the Bloud of Grapes. An Expreſſion
+bor<g ref="char:EOLhyphen"/>row'd from <hi>Geneſis,</hi> Chap. 49.11. and <hi>Deut.</hi> Ch.
+32.14.</p>
+                     <p>FINALLY, after this Ceremony, their Cuſtom was to Sing the
+113th. &amp; 114th. <hi>Pſalms,</hi> as an <hi>Hymn</hi> that concluded the
+Devotion of this Solemnity: Which Song of Praiſe they ſtill at this day
+call the <hi>Hallel.</hi>
+                     </p>
+                     <p>'TIS evident our Lord did imitate this Uſage, which is
+ſtill obſerv'd by the <hi>Jews,</hi> ſave only that they don't eat a
+Lamb. When therefore He had eaten the <hi>Paſchal Lamb,</hi> He took the
+Bread, which was deſigned to commemorate the Miſery the Children of
+<hi>Iſrael</hi> under<g ref="char:EOLhyphen"/>went in <hi>Egypt;</hi> and made uſe of the ſame
+Bleſſing and Giving of Thanks, which was received among the <hi>Jews;</hi>
+Brake the Bread He had taken; and intending this Ceremony ſhould preſerve
+the Remem<g ref="char:EOLhyphen"/>brance of his Death, He ſtill proſecuted the ſame Notions and
+Expreſſions of the <hi>Jews;</hi> ſaying, that it was his Body which was
+now to be broken for the Remiſſion of the Sins of Mankind.</p>
+                     <pb n="7" facs="tcp:99726:10"/>
+                     <p>AFTER this, He (according to the Practice of the
+<hi>Jews</hi>) took the Cup, gave thanks a ſecond time, and having ended his
+Bleſſing or Prayer, (for theſe ſignifie the ſame thing among the
+<hi>Jews</hi>) He de<g ref="char:EOLhyphen"/>clared that this Cup was the New Teſta<g ref="char:EOLhyphen"/>ment in his
+Bloud, or the Bloud of the New Teſtament by which God granted penitent
+Sinners the Pardon of their Sins.</p>
+                     <p>WHICH Expreſſions clearly ſhew, that He would have this
+Cup to be conſider'd as a Memorial of the New Teſtament, of which he was
+the Mediator.</p>
+                     <p>IN ſhort, is it not manifeſt, that He, together with his
+Diſciples ſang the ſame Hymns, which were ſolemn and cuſtoma<g ref="char:EOLhyphen"/>ry with
+the <hi>Jews</hi> on this occaſion?</p>
+                     <p>THERE is no man who does not eaſily perceive that JESUS
+CHRIST found in this conſtant Cuſtom of the <hi>Jews,</hi> a juſt ground
+for expreſſing himſelf as He did, when he deſign'd to inſtitute, and
+perpe<g ref="char:EOLhyphen"/>tuate in his Church a Publick Memorial of his Death and Sufferings.</p>
+                     <p>THE <hi>Jews</hi> themſelves, the Mortal E<g ref="char:EOLhyphen"/>nemies of our
+Religion, do agree with this. They highly maintain, that accord<g ref="char:EOLhyphen"/>ing to CHRIST's
+Senſe, theſe Words, <hi>This is my Body, &amp;c.</hi> which He pronounced
+in ſhewing the Bread, cannot import the <pb n="8" facs="tcp:99726:11"/>notion of Reality,
+but only of Significa<g ref="char:EOLhyphen"/>tion; that his Meaning was very appa<g ref="char:EOLhyphen"/>rent, both becauſe
+He ſaid in the 6th. of St. <hi>John</hi> concerning the Eating here
+men<g ref="char:EOLhyphen"/>tioned, <hi>The Words that I ſpeak to you are Spirit and Life,</hi> that
+is, they are to be un<g ref="char:EOLhyphen"/>derſtood in a Spiritual Senſe; and becauſe it was
+an uſual Expreſſion with them to ſay, <hi>This is the Bread, which our
+Fathers did Eat,</hi> though indeed it was but the Memorial of it.
+<hi>Fortalit. Fid. L.</hi> 3. § 11. <hi>p.</hi> 172.</p>
+                     <p>Thus the Expreſſions of our Lord be<g ref="char:EOLhyphen"/>ing (as appears) made
+up of thoſe com<g ref="char:EOLhyphen"/>mon Idea's ſo current among the <hi>Jews,</hi> it is
+evident that his Deſign in inſtituting of the <hi>Euchariſt,</hi> was to
+repreſent his Death to us, as a thing, which for time to come was to be
+commemorated by the Church, He ſubſtituting it in the room of the Memorial
+of the Deliverance out of <hi>Egypt,</hi> and the ancient Covenant God had made
+with the <hi>Jews,</hi> after his having ſet them at Liberty from their hard
+Bon<g ref="char:EOLhyphen"/>dage.</p>
+                     <p>BUT theſe Remarks, which only reſpect the out-ſide of
+the Euchariſt, are of much leſs importance than thoſe of the Second
+Order, which refer to our Lord's Deſign in his Inſtitution of this Holy
+Sacrament.</p>
+                  </div>
+                  <div n="3" type="chapter">
+                     <pb n="9" facs="tcp:99726:11"/>
+                     <head>
+                        <hi>CHAP. III.</hi> That JES<g ref="char:V">Ʋ</g>S CHRIST in his
+Inſtitu<g ref="char:EOLhyphen"/>tion of the <hi>Euchariſt</hi> has followed Idea's or Notions,
+quite oppoſite to thoſe of the <hi>Paſchal Lamb;</hi> And what thoſe
+Idea's of the <hi>Paſchal Lamb</hi> are.</head>
+                     <p>OUR Saviour's Words are not to be compar'd only with thoſe
+the <hi>Jews</hi> made uſe of at the Eating of their Unleavened Bread, which
+they call'd the <hi>Bread of Affliction,</hi> becauſe it was a
+Repre<g ref="char:EOLhyphen"/>ſentative of it; but (that they may be throughly illuſtrated) they
+are to be con<g ref="char:EOLhyphen"/>ſidered with oppoſition to the <hi>Idea's</hi> of the
+<hi>Paſchal Lamb,</hi> to which our Lord was willing to make the Celebration
+of this Sacrament to ſucced. And indeed not only St. <hi>Paul</hi> leads us
+naturally to look upon the Sacrifice of the <hi>Paſſover</hi> as a he
+ſays 1 <hi>Cor.</hi> 5.7. that CHRIST <hi>our</hi> Paſſover <hi>is
+Sacrificed for us;</hi> nor only did JESUS CHRIST for this chooſe the time of
+the <hi>Paſſover</hi> to ordain the Memorial of his Death; but the
+<hi>Jews</hi> themſelves ſeem <pb n="10" facs="tcp:99726:12"/>fully to agree with it,
+when they pro<g ref="char:EOLhyphen"/>pound this, as one of their moſt ancient Traditions, That the
+<hi>Meſſias</hi> is to pro<g ref="char:EOLhyphen"/>cure their Salvation the ſelf ſame Day, in
+which they were deliver'd from their <hi>Egyptian</hi> Bondage. <hi>Fagius ad
+Exod.</hi> 12.13.</p>
+                     <p>Firſt then, I ſay, that it is evident our Lord's Deſign
+was to ſubſtitute the Me<g ref="char:EOLhyphen"/>morial of the Deliverance of Mankind by his Death,
+in the room of the Re<g ref="char:EOLhyphen"/>membrance of the <hi>Jews</hi> Deliverance by the Bloud
+of the <hi>Paſchal Lamb.</hi> He does not now command the Eating of a Lamb as
+formerly; and his Words, <hi>Do this,</hi> are not at all ſpoken to that
+purpoſe; but his Intent was to aboliſh the Memory of the Curſe GOD had
+pronounced a<g ref="char:EOLhyphen"/>gainſt the Race of <hi>Cham,</hi> which was ex<g ref="char:EOLhyphen"/>ecuted in the
+Death of the Firſt-born in <hi>Egypt,</hi> and had been a Principle of
+Di<g ref="char:EOLhyphen"/>viſion among thoſe Nations he now unites again. It is with reſpect to
+his Death (which under the Appearance of a Curſe, has made him the
+Bleſſing of the World) that he ordain'd this Ceremony of break<g ref="char:EOLhyphen"/>ing and
+eating Bread. Which latter Cere<g ref="char:EOLhyphen"/>mony CHRIST prefers before the Eating of the
+<hi>Paſchal Lamb,</hi> it being his Will, that it ſhould thenceforwards be
+conſidered as the Chief Ceremony of his Reli<g ref="char:EOLhyphen"/>gion, <pb n="11" facs="tcp:99726:12"/>as
+being a ſolemn Token of his having aboliſh'd the Curſe due to Sinners;
+whereof indeed the <hi>Paſchal Lamb</hi> was a publick Monument with
+reſpect to the <hi>E<g ref="char:EOLhyphen"/>gyptians,</hi> though it was a Signal of God's
+Bleſſing to the <hi>Iſraelites.</hi>
+                     </p>
+                     <p>IN the ſecond place I ſay, that Chriſt expreſſes
+himſelf ſo as to give us <hi>Idea's</hi> very much differing from thoſe
+of the <hi>Jews.</hi> For Firſt, He ſpeaks of a New Teſtament, in
+oppoſition to the Old he was about to aboliſh. Secondly, He op<g ref="char:EOLhyphen"/>poſes his
+Bloud, <hi>Which was ſhed for many, for the remiſſion of their Sins,</hi>
+to the Bloud of the <hi>Paſchal Lamb,</hi> that was poured forth only for a
+few, and the Ceremony of it celebrated but in one Nation, <hi>viz.</hi> that of
+the <hi>Jews,</hi> to which alone the Be<g ref="char:EOLhyphen"/>nefit of the <hi>Egyptian</hi>
+Deliverance was ap<g ref="char:EOLhyphen"/>propriate. Thirdly, He oppoſes the Eat<g ref="char:EOLhyphen"/>ing of his Fleſh,
+which he repreſents as a Sacrifice He was about to offer up for the Sins of
+the World, to the Eating of thoſe Lambs, that were ſlain in purſuance of
+God's Law.</p>
+                     <p>This being laid down (which I hope cannot be contradicted) it
+is plain that foraſmuch as JESUS CHRIST did partly make uſe of the
+<hi>Idea's</hi> or Notions of the <hi>Paſchal Lamb,</hi> and partly
+expreſs'd him<g ref="char:EOLhyphen"/>ſelf <pb n="12" facs="tcp:99726:13"/>with oppoſition to that Ceremony,
+We muſt neceſſarily, in order to our ap<g ref="char:EOLhyphen"/>prehending the true Meaning of
+our Lord in the Inſtitution of his Supper, and having a perfect Knowledg of
+it, make out a due Parallel between the <hi>Paſ<g ref="char:EOLhyphen"/>chal Lamb,</hi> that kept up
+the Remembrance of the <hi>Egyptian</hi> Deliverance, and the Sacra<g ref="char:EOLhyphen"/>ment of the
+<hi>Euchariſt,</hi> which preſerves that of the Death of our Lord and
+Saviour.</p>
+                     <p>In order whereto theſe following Re<g ref="char:EOLhyphen"/>flections may be made
+upon the Inſtituti<g ref="char:EOLhyphen"/>on and Celebration of the <hi>Paſchal Lamb.</hi>
+                     </p>
+                     <p>The Firſt is, That is was God's Plea<g ref="char:EOLhyphen"/>ſure in inſtituting
+this Ceremony, to tranſ<g ref="char:EOLhyphen"/>mit the Memory of ſo great and pro<g ref="char:EOLhyphen"/>digious an Event
+as that of his People's De<g ref="char:EOLhyphen"/>liverance out of <hi>Egypt,</hi> was to all
+Poſterity. This He Himſelf expreſſes in the 12th. Chapter of
+<hi>Exodus,</hi> in this manner: <hi>This day ſhall be unto you for a
+Memorial; and you ſhall keep it a Feaſt to the Lord through<g ref="char:EOLhyphen"/>out your
+Generations: And when your Child<g ref="char:EOLhyphen"/>ren ſhall anſwer, It is the Sacrifice of
+the Lord's</hi> Paſſover, <hi>who paſſed over the Houſes of the
+Children of</hi> Iſrael <hi>in</hi> Egypt, <hi>when He ſmote the</hi>
+Egyptians, <hi>and de<g ref="char:EOLhyphen"/>livered our Houſes.</hi> It was with regard to this,
+that to excite the Curioſity of <pb n="13" facs="tcp:99726:13"/>all the People, yea, even
+of the very Children, He ordain'd that they, who were to celebrate the
+Paſſover, ſhould take a Journey to the Temple, in that Equipage of
+Travellers, in which their Fore-fathers departed out of <hi>Egypt.</hi> He
+would have them alſo eat Unleavened Bread for the ſpace of ſevendays, and
+bit<g ref="char:EOLhyphen"/>ter, or wild Herbs with the <hi>Paſchal Lamb;</hi> and He (in like
+manner) ordain'd, that they ſhould every year renew this Ceremony, wherein
+their Children had a ſhare as ſoon as they were capable of asking their
+Fathers the reaſon of all this change from their uſual way of Eating. And
+indeed ſuch a Ceremony thus ſolemnly obſerved every year, and to which
+every one, from one Generation to another, does by a publick Law ſubmit
+himſelf, is an infallible means to eſtabliſh the Belief of a Matter of
+Fact, and preſerve the Memory of great Events.</p>
+                     <p>The Second is, That GOD would have his People conſider with
+what exact Faith<g ref="char:EOLhyphen"/>fulneſs, He had acquitted Himſelf of all his Promiſes,
+by delivering them with a ſtrong Hand, and ſtretched-out Arm from the cruel
+Power of the <hi>Egyptians,</hi> at the ſame time when He made an Example of
+this Barbarous Poſterity of <hi>Cham,</hi> who <pb n="14" facs="tcp:99726:14"/>had
+afflicted them in a long &amp; painful Ser<g ref="char:EOLhyphen"/>vitude. For as on one hand GOD had
+ſubje<g ref="char:EOLhyphen"/>cted all the Progeny of <hi>Cham</hi> to his Curſe (as you may ſee,
+<hi>Gen.</hi> 9.25.) which began to take Effect in thoſe Plagues wherewith He
+ſmote <hi>Egypt,</hi> though it was afterwards more exactly fulfilled by the
+Deſtruction of the <hi>Canaanites;</hi> So on the other He ſaid to
+<hi>Abraham, Gen.</hi> 15. v. 13, 14, &amp; 16. where he explains the
+promiſed Bleſſing; <hi>Know of a Surety, that thy Seed ſhall be a
+Stranger in a Land that is not theirs, and ſhall ſerve them, and they
+ſhall afflict them four hundred years. And alſo that Nation whom they
+ſhall ſerve, will I judge; and afterwards ſhall they come out with great
+Subſtance. But in the Fourth Generation they ſhall come hither again.</hi>
+Behold here the Oracle that con<g ref="char:EOLhyphen"/>tains an Excellent Promiſe; which being made
+good to the <hi>Jews,</hi> He commands them to celebrate the Memory of the
+Exact Accompliſhment thereof by ob<g ref="char:EOLhyphen"/>ſerving the Anniverſary Feſtival of
+the <hi>Paſchal Lamb.</hi>
+                     </p>
+                     <p>THE third Reflection we may make upon the Inſtitution of the
+<hi>Paſchal Lamb,</hi> in this, That God would have the <hi>Jews</hi> look on
+their Deliverance out of <hi>Egypt,</hi> as the greateſt Bleſſing He had
+e<g ref="char:EOLhyphen"/>ver vouchſafed to them. And certainly <pb n="15" facs="tcp:99726:14"/>as He had
+expreſs'd an exceeding great Fa<g ref="char:EOLhyphen"/>vour in with-holding <hi>Abraham</hi>'s Knife
+from ſlaying <hi>Iſaac,</hi> and ſubſtituting a Ram in the Room of him;
+ſo there was none of the Firſt-born of the <hi>Iſraelites,</hi> but could
+ſay, that GOD had been as fa<g ref="char:EOLhyphen"/>vourable to them, as He was to <hi>Iſaac,</hi>
+by cauſing the Sword of the Deſtroying Angel to fall upon a Lamb, at a time
+when he was commiſſioned to ſlay all the Firſt-born in <hi>Egypt</hi>
+both of Man and Beaſt.</p>
+                     <p>The Fourth Reflection was hinted at juſt now, which is, That
+GOD would have his People underſtand, that the Ex<g ref="char:EOLhyphen"/>piation of the Sins of
+their Anceſtors had been typify'd and prefigur'd by his accepting of the
+Bloud of their Lambs, inſtead of the Lives and Bloud of their Firſt-born.
+And indeed in agreement to this Obſervation we may ſay, that the whole Law
+in all its ſeveral Expiations, wherein Sin was transferr'd upon the
+Sa<g ref="char:EOLhyphen"/>crifice, did nothing elſe but further illu<g ref="char:EOLhyphen"/>ſtrate and extend the Figure
+of <hi>Abraham</hi>'s Offering, as likewiſe that of the Sacrifice of the
+<hi>Paſchal Lamb,</hi> and repreſent the ſame more lively and
+diſtinctly to the Minds of them that Offer'd; God having joyn'd to this
+Expiatory Sacrifice, certain cir<g ref="char:EOLhyphen"/>cumſtances <pb n="16" facs="tcp:99726:15"/>of Places,
+Perſons, and Time, to the end the Impreſſion of it might be the deeper,
+and leave a more lively Senſe in the minds of thoſe that were concern'd
+therein.</p>
+                     <p>A Fifth Reflection upon the <hi>Paſchal Lamb</hi> is this,
+that it was to be conſider'd as a Publick Pledge and Token of the Covenant
+GOD had made with the Peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael,</hi> by preferring them before
+the <hi>Iſmaelites</hi> and <hi>Edomites,</hi> who were deſcended, the
+former from <hi>Abraham,</hi> and the latter from <hi>Iſaac.</hi> The Sign of
+Cir<g ref="char:EOLhyphen"/>cumciſion did ſufficiently acquaint the <hi>Jews,</hi> that by this
+diſtinguiſhing Chara<g ref="char:EOLhyphen"/>cter GOD had choſen them from among all other
+Nations of the Earth, to accompliſh in the midſt of them the Promiſe He
+had made to <hi>Abraham,</hi> namely, that of his Seed the <hi>Meſſias</hi>
+was to be born, in whom all Na<g ref="char:EOLhyphen"/>tions ſhould be bleſſed: But this ſign
+of Circumciſion being common to the <hi>Jews,</hi> with the
+<hi>Iſmaelites</hi> and <hi>Edomites,</hi> the pre<g ref="char:EOLhyphen"/>tences of both theſe to
+the Priviledges of the Covenant (which GOD had firſt made with
+<hi>Abraham,</hi> and afterwards re<g ref="char:EOLhyphen"/>new'd with <hi>Iſaac</hi>) was ſtill
+kept up. It was therefore requiſite there ſhould be a Religious Ceremony,
+that might de<g ref="char:EOLhyphen"/>monſtrate that this Covenant was parti<g ref="char:EOLhyphen"/>cularly 
+<pb n="17" facs="tcp:99726:15"/>confin'd within the Family of <hi>Ja<g ref="char:EOLhyphen"/>cob.</hi> Which was
+done by the <hi>Paſchal Lamb.</hi> For this repreſented to them, that
+(ac<g ref="char:EOLhyphen"/>cording to what was foretold <hi>Gen.</hi> 15.) Affliction, and that in
+this State they had receiv'd a particular Relief and Delive<g ref="char:EOLhyphen"/>rance from GOD;
+which, foraſmuch as it could not be ſaid of the <hi>Iſmaelites</hi> or
+<hi>Edomites,</hi> did moſt ſtrongly refute all their Pretenſions to a
+Right in God's Cove<g ref="char:EOLhyphen"/>nant with <hi>Abraham.</hi> This likewiſe moſt clearly
+ſet forth to them, that God by virtue of his Covenant, had, out of his Mercy,
+preſerved them at a time when the <hi>Egyptians</hi> felt the Effects of his
+Curſe and Vengeance, and that accordingly He would not fail of fulfilling
+that Great Promiſe, in order to the accompliſhment of which He had ſo
+miraculouſly preſer<g ref="char:EOLhyphen"/>ved <hi>Iſaac,</hi> and after him, their Fathers
+alſo, from the Sword of the Deſtroying Angel.</p>
+                     <p>LASTLY, It is to be obſerved, that as this Ceremony reminded
+them of GOD'S Love for their Nation, of his Faithfulneſs in making good his
+Promi<g ref="char:EOLhyphen"/>ſes, of the Expiation of their Iniquities, and of his Covenant with
+them (A Co<g ref="char:EOLhyphen"/>venant by which He had engaged to be <pb n="18" facs="tcp:99726:16"/>their God,
+that is, their Benefactor and Protector, and one day to give them the
+<hi>Meſſias,</hi> who was to be born of their Nation,) ſo it naturally
+led them alſo to look upon themſelves as the People of GOD, and to obey Him
+faithfully; In a word, to anſwer by a Holy Life, and all the marks of true
+Gratitude, the Ho<g ref="char:EOLhyphen"/>nour GOD had conferr'd upon them, by his making (out of his
+meer Good Will) a Covenant with them, and calling them to ſo great Hopes, as
+thoſe were, which He had ſet before them.</p>
+                  </div>
+                  <div n="4" type="chapter">
+                     <head>
+                        <hi>CHAP. IV.</hi> Of the Truths which the Holy Com<g ref="char:EOLhyphen"/>munion
+repreſents to us.</head>
+                     <p>THESE are the Principal Truths, great Comforts and juſt
+Obligati<g ref="char:EOLhyphen"/>ons to ſerve GOD religiouſly, which ſo manifeſtly were imply'd
+in the Cele<g ref="char:EOLhyphen"/>bration of the <hi>Paſchal Lamb.</hi> But how much more important
+is the thing our Sa<g ref="char:EOLhyphen"/>viour has made to ſupply the place of <pb n="19" facs="tcp:99726:16"/>it in his Inſtitution of the <hi>Euchariſt!</hi> That which he
+exhibits to us in this Sa<g ref="char:EOLhyphen"/>cred Myſtery (whether with reſpect to the Truths,
+Comforts, or our Obligati<g ref="char:EOLhyphen"/>ons to Piety it contains) is infinitely more Sublime,
+great and real. To be aſſured of this, we need only to reſume and
+attentively conſider the forementi<g ref="char:EOLhyphen"/>oned three Points. I begin with the Truths
+the <hi>Euchariſt</hi> repreſents to us.</p>
+                     <p>THE firſt of theſe Truths reſpects the Purpoſe and
+Deſign of our Lord, when He inſtituted the Sacrament of his Supper.
+Certainly it was (as all Chri<g ref="char:EOLhyphen"/>ſtians agree) to eſtabliſh a publick
+Mo<g ref="char:EOLhyphen"/>nument of his Death, as being the greateſt Event that could ever be
+commemorated. Firſt, He brake the Bread; and then, to expreſs what He meant
+by this break<g ref="char:EOLhyphen"/>ing of the Bread, He ſaid, that <hi>it was his Body
+broken,</hi> i. e. torn by the cruelty of his Tormenters. He preſented
+after<g ref="char:EOLhyphen"/>wards the Cup to his Diſciples; and to unfold the Myſtery thereof,
+added that <hi>it was the New Teſtament in his Blood;</hi> which had a
+natural reference to his Death. This He explains more clearly in his com<g ref="char:EOLhyphen"/>mand,
+<hi>Do this in remembrance of me,</hi> that is, in commemoration of my
+Sufferings. Which made St. <hi>Paul</hi> ſay, <hi>As often as you 
+<pb n="20" facs="tcp:99726:17"/>ſhall Eat of this Bread and Drink of this Cup, you
+ſhew</hi> (or according to our way of ſpeaking, <hi>you muſt ſhew or
+declare</hi>) <hi>the Lord's Death,</hi> i. e. you are to call to mind, and
+ſolemnly commemorate this wonder<g ref="char:EOLhyphen"/>ful effect of the Love of God. Indeed we
+ſee the Evangeliſts have ſo exactly deſcribed the Death of
+<hi>Chriſt,</hi> with all the Circumſtances thereof to us, that we may
+aver, they have (as it were) preſent<g ref="char:EOLhyphen"/>ed us with the very Picture and Lively
+Image of it. So that had we been Eye<g ref="char:EOLhyphen"/>witneſſes of the ſame our ſelves,
+and in company with them upon <hi>Mount Calvary,</hi> we ſhould hardly have
+been ſo well ac<g ref="char:EOLhyphen"/>quainted therewith, as now we are. But beſides this, it was
+our Saviour's will, that by a Religious Ceremony, which ſhould be
+ſolemnized to the World's End, his Death might continually be placed before
+our Eyes. And notwithſtanding this ig<g ref="char:EOLhyphen"/>nomious Death was to prove a
+Stumbling-block to the <hi>Jews,</hi> and at firſt be look'd upon as meer
+Fooliſhneſs by the <hi>Gentiles;</hi> yet would He have the Remembrance
+thereof to be dearly preſerv'd in his Church, by his inſtituting of the
+<hi>Euchariſt</hi> much after the ſame manner as God the Father had
+inſtituted the Ceremony of the <hi>Paſchal Lamb,</hi> which did yearly
+re<g ref="char:EOLhyphen"/>freſh <pb n="21" facs="tcp:99726:17"/>the Memory of the <hi>Jews</hi> about their
+Deliverance out of <hi>Egypt,</hi> as the moſt re<g ref="char:EOLhyphen"/>markable Event, that had
+ever happened to their Nation.</p>
+                     <p>THE ſecond Truth which the <hi>Eucha<g ref="char:EOLhyphen"/>riſt</hi> offers to
+us, is, That <hi>JES<g ref="char:V">Ʋ</g>S CHRIST</hi> is the true <hi>MESSIAS</hi> pro<g ref="char:EOLhyphen"/>miſed
+by God, and that we have in Him the Accompliſhment of the ancient
+Pro<g ref="char:EOLhyphen"/>phecies; which (among the diverſe Cha<g ref="char:EOLhyphen"/>racters that the <hi>MESSIAS</hi>
+was to be known by, and are exactly found in Our Lord) expreſly foretold that
+He was to ſuffer Death. <hi>Pſal.</hi> 22. <hi>Iſ.</hi> 53. <hi>Dan.</hi>
+9.26. And here it is well worth our while to conſider: Firſt, That GOD had
+ſtampt the mark of his Curſe upon the Puniſh<g ref="char:EOLhyphen"/>ment of the Croſs.
+<hi>Curſed is every one that hangs on a Tree,</hi> Deut. 21.23. Gal. 3.13.
+Secondly, That though GOD had de<g ref="char:EOLhyphen"/>ſcribed the <hi>MESSIAS,</hi> as One who was
+to be the Fountain of Bleſſings to all Nations, Tribes and Families of the
+Earth; yet at the ſame time He had given forth many Oracles concern<g ref="char:EOLhyphen"/>ing his
+Death upon the Croſs, and the ſe<g ref="char:EOLhyphen"/>veral Circumſtances of it. Thirdly, That
+GOD was pleaſed to dictate a greater Number of Oracles relating to this
+mat<g ref="char:EOLhyphen"/>ter, than to any other of thoſe Glorious <pb n="22" facs="tcp:99726:18"/>and
+wonderful Events, whereby the <hi>MESSIAS</hi> was to be diſtinguiſh'd
+du<g ref="char:EOLhyphen"/>ring his Life here. The Prophecies men<g ref="char:EOLhyphen"/>tioning his Birth, and the place of
+his Na<g ref="char:EOLhyphen"/>tivity, are but few; whereas GOD pre<g ref="char:EOLhyphen"/>ſignifi'd by the Prophets, and
+repreſented by manifold Lively Types and Figures 1. <hi>That both</hi> Jews
+<hi>and</hi> Gentiles <hi>were to joyn together in the Deſtroying of the
+MESSIAS,</hi> Pſal. 2.1. 2. <hi>That his own Diſciple, and one that ate
+Bread with him ſhould betray him.</hi> Pſal. 41.9. 3. <hi>That He ſhould
+be ſold for thirty Pieces of Silver,</hi> Zach. 11.12. 4. <hi>That his
+Diſciples would forſake Him,</hi> Zach. 13.7. 5. <hi>That He was to be the
+ſcorn and deri<g ref="char:EOLhyphen"/>ſion of his Adverſaries,</hi> Pſal. 22.7. 6. <hi>That He
+ſhould hold his Peace as a Sheep dumb before his Tormenters,</hi> Iſa.
+53.7. 7. <hi>That the Great Men of the World were to take Council together for
+putting Him to Death.</hi> Pſal. 2.2. 8. <hi>That He was to be expo<g ref="char:EOLhyphen"/>ſed as
+an Object of Horror and Deteſtation,</hi> Iſa. 53.3. 9. <hi>That He was to
+be reckon<g ref="char:EOLhyphen"/>ed among Tranſgreſſors,</hi> Iſa. 53.12. 10. <hi>That they
+ſhould pierce his Hands and Feet,</hi> Pſal. 22.16. 11. <hi>That Lots
+ſhould be caſt upon his Veſture,</hi> Pſal. 22.18. 12. <hi>That He
+ſhould be inſulted over, and derided on the account of his truſting in
+God,</hi> Pſal. 22.8. 13. <hi>That he was to complain <pb n="23" facs="tcp:99726:18"/>of
+his being abandoned by GOD to the fury of his Enemies,</hi> Pſal. 22.1. 14.
+<hi>That they would give Him Gall and Vinegar to drink,</hi> Pſal. 69.22. 15.
+<hi>That He was to commit his Soul into the Hands of GOD,</hi> Pſal. 31.5.
+16. <hi>That his Side was to be pierced with a Spear,</hi> Zach. 12.10. 17.
+<hi>That none of his Bones ſhould be broken,</hi> Exod. 12.49. Pſal. 34.20.
+18. <hi>That He ſhould be laid in a Rich Man's Tomb, Iſa.</hi> 53.9. And
+beſides theſe, there a great many other Circumſtances to the ſame
+purpoſe, ex<g ref="char:EOLhyphen"/>actly ſpecify'd by the Prophets. But I wave them; my Deſign
+being only to hint at the moſt remarkable.</p>
+                     <p>WHAT I have mentioned here is ſuf<g ref="char:EOLhyphen"/>ficient: Firſt, to
+demonſtrate, that CHRIST'S Death (with all the notable paſſages of it)
+was a convincing Proof of his being the promiſed <hi>MESSIAS.</hi> But in the
+ſecond place, it is yet more evident, that as our Saviour would have a lively
+Senſe of his Bloody Death and Paſſion, to be preſerv'd by a publick
+Monument, that might perpetuate the memory of it in his Church, ſo was He
+willing thereby to inculcate the more forcibly this Proof of his being the
+Meſſias. A Proof taken from the kind of Death, which He ſuf<g ref="char:EOLhyphen"/>fer'd, and
+the Circumſtances attending <pb n="24" facs="tcp:99726:19"/>it. For as much as this Death
+(which had ſo much Scandal in it) being the Object of the Chriſtian
+Religion would inevitably expoſe it to many Reflections and the Oppoſition
+of great difficulties.</p>
+                     <p>THE third Truth, which the Eucha<g ref="char:EOLhyphen"/>riſt repreſents to us,
+is, That the Paſſion of CHRIST, which the <hi>Jews</hi> look up<g ref="char:EOLhyphen"/>on, as an
+Evident Sign of the Curſe of God, is moſt truly a plentiful conveyance of
+the greateſt Bleſſings to Sinners. This we are made ſenſible of, as
+ſoon as we re<g ref="char:EOLhyphen"/>flect upon theſe two Things. 1. That GOD denounced his
+Curſe againſt Sin<g ref="char:EOLhyphen"/>ners, not only when He ſaid, Gen. 3.17. <hi>Curſed
+ſhall be the Ground for thy ſake,</hi> or when in Deut. 27.26. He
+pronounced <hi>him accurſed, who did not continue in all the Words of the Law
+to do them;</hi> But alſo by annexing this Curſe in particular to that kind
+of Death which our Lord ſuffer'd; it being ſaid, <hi>Deut.</hi> 21.23.
+<hi>He that is hang'd is accurſed of GOD.</hi> 2. That though GOD by his
+Oracles given to <hi>Abraham</hi> had promiſed, that all Nations ſhould be
+bleſſed by means of the <hi>Meſſias,</hi> yet He does no leſs
+expreſly declare, that the <hi>Meſſias</hi> was to ſuffer the
+Puniſhment of the Croſs, and conſequently be under the Curſe of GOD,
+<hi>Pſal.</hi> 22. <hi>Zach.</hi> 12.10. <pb n="25" facs="tcp:99726:19"/>A man muſt
+either make no uſe of his own Reaſon, or preſently infer from theſe
+Truths, that the <hi>MESSIAS</hi> was to be a Bleſſing to the World, no
+other way than by his being expoſed to the Curſe for a time, <hi>viz.</hi>
+by undergoing an accur<g ref="char:EOLhyphen"/>ſed Death before he could ſhower down all the
+Bleſſings of his Grace and Glory up<g ref="char:EOLhyphen"/>on us. The <hi>Euchariſt</hi>
+preſerving the Memory of our Saviour's Paſſion, natural<g ref="char:EOLhyphen"/>ly leads us to
+this Reflection. Which will be much more ſenſibly impreſs'd upon us, if
+with it we joyn a view of <hi>JES<g ref="char:V">Ʋ</g>S CHRIST;</hi> who preſents Himſelf on
+the Croſs, as a Victim offer'd for Sin<g ref="char:EOLhyphen"/>ners, and his Death as a Real
+Sacri<g ref="char:EOLhyphen"/>fice.</p>
+                     <p>THE fourth Truth, is that which is moſt diſtinctly laid
+open to us in the Man<g ref="char:EOLhyphen"/>ner and Circumſtances of the <hi>Euchariſt.</hi>
+For,</p>
+                     <p>Firſt of all, <hi>CHRIST</hi> did not only inſtitute this
+Ceremony after He had ea<g ref="char:EOLhyphen"/>ten the <hi>Paſchal Lamb</hi> with his Diſciples,
+which ſet before their Eyes. 1. The Sa<g ref="char:EOLhyphen"/>crifice of the Ram, that was offer'd
+up in the Room of <hi>Iſaac.</hi> 2. That of the Lambs in <hi>Egypt,</hi> for
+the redemption of the Firſt-born of the <hi>Iſraelites.</hi> 3. The
+Teſtimony of <hi>John</hi> the <hi>Baptiſt</hi> expreſs'd 
+<pb n="26" facs="tcp:99726:20"/>in theſe Terms; <hi>This is the Lamb of God, who takes
+away the Sins of the World.</hi> Which ſaying of his explains all the ancient
+Types, and with one word does illuſtrate whate<g ref="char:EOLhyphen"/>ver we read concerning the
+Death of the <hi>Meſſias</hi> in the 53d. of <hi>Iſaiah.</hi> And,</p>
+                     <p>Secondly, <hi>CHRIST</hi> in the Inſtitution of his
+Sacrament expreſſes Himſelf alſo by way of oppoſition to the
+<hi>Paſchal Lamb,</hi> and other Sacrifices of the Law; thereby to intimate
+that the ancient Deliverance the <hi>Jews</hi> had obtained by their offering
+of Lambs for their Firſt-born, was but a Fi<g ref="char:EOLhyphen"/>gure of that which was to be
+procur'd by his Death, and that this Death was to be conſider'd as a true
+Sacrifice, by means of which GOD was certainly and fully reconcil'd to Sinners.
+And this Truth it is evident CHRIST was willing to de<g ref="char:EOLhyphen"/>clare moſt ſenſibly
+to us; 1. When He repreſents his Body as broken, and his Blood as ſhed. 2.
+When he wills us to eat the Bread of the <hi>Euchariſt,</hi> and drink of the
+Cup, as Eating his Body and drink<g ref="char:EOLhyphen"/>ing his Blood. Indeed when Our Saviour
+commanded his Diſciples, (and in their Perſons all the Faithful) to eat his
+Fleſh and drink his Blood, it is manifeſt, that He would, 1. Take off the
+reſtraint of the Old Law, which forbad Sinners <pb n="27" facs="tcp:99726:20"/>to eat of
+the Sacrifice that was offer'd for their Sins. 2. Aboliſh that Precept of the
+ſame Law, which abſolutely in<g ref="char:EOLhyphen"/>joyned Men to abſtain from Blood. And as
+this intimates that thoſe Victims of old had never made any through
+Expiation; ſo it plainly ſhews, that CHRIST offer'd up Himſelf as the
+true Sacrifice from which this Bleſſed Effect was to be look'd for.
+Moreover after his ha<g ref="char:EOLhyphen"/>ving ſuggeſted theſe Ideas of Himſelf as a Victim
+ſlain, He now repreſents Him<g ref="char:EOLhyphen"/>ſelf to us under the Notion of an High
+Prieſt, when he ſays, Mat. 26.29. <hi>I will not drink henceforth of this
+Fruit of the Vine, until that Day when I drink it new with you in my Father's
+Kingdom;</hi> In which words He alludes to the Cuſtom of of the High
+Prieſt, who after he had hap<g ref="char:EOLhyphen"/>pily concluded his Solemn Sacrifice on the Day
+of Atonement, and was come home ſafe from the Sanctuary (where GOD had killed
+ſome) he was wont to make a Feaſt to his Friends, in token of joy, for the
+good ſucceſs of his Function.</p>
+                     <p>'TIS this important Truth the Apoſtle St. <hi>Paul</hi> ſo
+ſtrongly aſſerts in his Epiſtle to the <hi>Hebrews;</hi> And it is for
+the ſame reaſon, that when he was deſirous to take off the
+<hi>Corinthians</hi> from the Communion they <pb n="28" facs="tcp:99726:21"/>had with
+<hi>Heathens</hi> in their Sacrifices, he repreſents to them the Celebration
+of the <hi>Euchariſt,</hi> as a participating of the Sacri<g ref="char:EOLhyphen"/>fice offer'd up by
+our Lord.</p>
+                     <p>INDEED if this Sacrament had been inſtituted by CHRIST,
+after his Re<g ref="char:EOLhyphen"/>ſurrection (which wholly effaced the Pour<g ref="char:EOLhyphen"/>traiture of his Shame
+and Sufferings) it would have been much more difficult to have thence
+inculcated to us this impor<g ref="char:EOLhyphen"/>tant Truth of the Chriſtian Religion. But Our
+Lord did expreſly chooſe the time im<g ref="char:EOLhyphen"/>mediately before his Death, that ſo
+the Ceremony, which was to preſerve the Me<g ref="char:EOLhyphen"/>mory of it, might ſo fill us
+with the ſenſe of the Shame and Puniſhment he endu<g ref="char:EOLhyphen"/>red, that it might
+lead us to make a con<g ref="char:EOLhyphen"/>tinual Reflection upon theſe Truths, <hi>viz.</hi> That
+when JESUS CHRIST dy'd; He dy'd for Sinners; That when He was nail'd to the
+Croſs, He bore their Sins in his Body on the Tree; That when He was wounded,
+it was for our Tranſgreſſions; and that by his Stripes we are healed.</p>
+                     <p>THE fifth Truth, which our Saviour was willing continually to
+ſet before our Eyes by the Celebration of the <hi>Euchariſt,</hi> is, That
+this Bloody Death of his was the Bleſſed Means, by which GOD entred into
+Covenant with Mankind. <hi>Moſes</hi> 
+                        <pb n="29" facs="tcp:99726:21"/>had ſaid of the
+Blood he ſprinkled upon the People, <hi>Behold the Blood of the Cove<g ref="char:EOLhyphen"/>nant
+which the Lord has made with you, con<g ref="char:EOLhyphen"/>cerning all theſe words, Exod.</hi>
+24.8. And Our Saviour plainly oppoſing his Blood to that, ſays concerning
+the Cup, <hi>This Cup is the New Covenant</hi> (or <hi>Teſta<g ref="char:EOLhyphen"/>ment</hi>)
+<hi>in my Blood, which is ſhed for the re<g ref="char:EOLhyphen"/>miſſion of your Sins.</hi> This
+Covenant is the greateſt and moſt important Truth of our Religion. By it
+GOD delivers Men from Hell, and reſtores them to his Fa<g ref="char:EOLhyphen"/>vour and Protection.
+It is this alſo diſ<g ref="char:EOLhyphen"/>plays before us the whole Myſtery of our Redemption;
+as 1. That Man being created Innocent fell into Rebellion againſt GOD, by
+liſt'ning to the inſinuations of the De<g ref="char:EOLhyphen"/>vil. 2. That though Man deſerved
+to be not only reduc'd to nothing, from whence the Hand of GOD had raiſed him
+at the firſt, but to be caſt into Hell, there to un<g ref="char:EOLhyphen"/>dergo the puniſhment
+due to his Diſobedi<g ref="char:EOLhyphen"/>ence; yet GOD being mov'd with pity, reſolv'd to
+forgive all, and make a New Covenant with him. 3. That it was the Will of GOD
+that <hi>his Own Son</hi> taking in due time Human Nature upon Him, ſhould be
+the Perſon in whoſe Blood this Covenant was to be Eſtabliſhed. 4. That
+JESUS CHRIST having really ſhed <pb n="30" facs="tcp:99726:22"/>his Blood, this Covenant
+was fully rati<g ref="char:EOLhyphen"/>fy'd and confirmed, and Remiſſion of Sins offer'd to all
+that would repent. For that is the thing which is meant by the New Covenant,
+according as GOD expreſſes it in <hi>Jeremy</hi> 31.34. ſaying, <hi>I
+will forgive their Iniquity and remember their Sin no more.</hi>
+                     </p>
+                     <p>THE ſixth conſiderable Truth is, That our Saviour would
+have us always to bear in mind his Laſt Coming to judge the World, and
+conſummate the Work of Our Redemption. Accordingly this Sacrament contains
+ſolemn Marks and In<g ref="char:EOLhyphen"/>ſtances of the fulfilling of the Promiſes God had
+made to ſend the <hi>Meſſias</hi> into the World. It ſets forth in what
+man<g ref="char:EOLhyphen"/>ner He began to act and ſuffer for Man<g ref="char:EOLhyphen"/>kind. But He being to continue but
+a lit<g ref="char:EOLhyphen"/>tle while here upon Earth, and to be ta<g ref="char:EOLhyphen"/>ken up to Heaven, there to remain
+to the End of the World, this Ceremony ac<g ref="char:EOLhyphen"/>quaints us, that He is then to come
+again from thence, in order to fulfil our Hopes, by cauſing us to reap the
+laſt Fruits of his Expiation of Our Sins, that is, in de<g ref="char:EOLhyphen"/>ſtroying Death, by
+a glorious Reſurrecti<g ref="char:EOLhyphen"/>on, and making us to live for ever with GOD, a Life
+that neither Sin, nor Death (which Sin has brought into the World) 
+<pb n="31" facs="tcp:99726:22"/>can ever diſturb. And it may be ſaid, that as the
+firſt Coming of the <hi>Meſſias</hi> was the great Object of the
+Religion, De<g ref="char:EOLhyphen"/>ſires and Hopes of the <hi>Jews, Art thou</hi> (ſay they)
+<hi>He that ſhould come, or do we look for another? Mat.</hi> 11.3. as
+likewiſe of the Promiſes of Bleſſings which GOD had made to the
+<hi>Gentiles</hi> themſelves, He being called <hi>the Expectation and
+deſire of all Nations; Hag.</hi> 2.7. ſo is his ſecond Coming the great
+Object of the Chriſtian Religion. <hi>This ſame JES<g ref="char:V">Ʋ</g>S</hi> (ſaid the
+Angels to his Diſciples, gazing up to Heaven) <hi>who is taken up from you
+into Heaven, ſhall ſo come in like manner as you have ſeen Him go into
+Heaven, Act.</hi> 1.11. On this account alſo the Church is repreſented to
+us (Rev. 22.17.) calling for her Bridegroom. <hi>And the Spirit and the Bride
+ſay, Come. And let him that hears, ſay, Come.</hi> And indeed as the
+Prophets deſcribe theſe two Com<g ref="char:EOLhyphen"/>ings of the <hi>Meſſias</hi> under the
+notion of one ſingle Object; ſo we ſee, that according to the mind of St.
+<hi>Paul</hi> (who aſſigns for the continuance of this Holy Ordinance the
+whole Interval of time to the end of the World and Chriſt's Return.) Our
+Saviour has in this Sacrament united this his two Comings, as being the
+greateſt Objects of our Religion.</p>
+                  </div>
+                  <div n="5" type="chapter">
+                     <pb n="32" facs="tcp:99726:23"/>
+                     <head>
+                        <hi>CHAP. V.</hi> Of the Comforts the Holy Euchariſt
+ad<g ref="char:EOLhyphen"/>miniſters to us.</head>
+                     <p>THUS having explain'd the impor<g ref="char:EOLhyphen"/>tant Truths which the
+Sacrament of the Lord's Supper engages us to meditate upon, it is very Evident
+that Our Parti<g ref="char:EOLhyphen"/>cipation of this Sacrament furniſhes us with moſt lively and
+refreſhing Comforts, which I now come to propoſe in order, with reference
+to the foregoing Truths.</p>
+                     <p>FIRST then, What joy muſt we needs feel when we reflect upon
+this great Event, <hi>viz.</hi> the Death of Our Saviour? Let us but compare
+our Happineſs with the Condition of the <hi>Patriarchs,</hi> and we ſhall
+eaſily perceive how high a pitch our Joy ought to be raiſed to. St.
+<hi>Peter</hi> tells us, that <hi>the Prophets have enquired and ſearched
+diligently what, or what manner of time the Spirit of CHRIST, which was in them
+did ſignifie when it teſtifi'd before<g ref="char:EOLhyphen"/>hand the Sufferings of CHRIST and the
+Glory that ſhould follow,</hi> 1 <hi>Pet</hi> 1.10, 11. The Promiſes of GOD
+did fill their Hearts with gladneſs, even before they <pb n="33" facs="tcp:99726:23"/>came to paſs, yea, tho' <hi>it was revealed to them, that it was not
+to themſelves, but to us that they miniſtred thoſe things, which have
+been declar'd to us by the Preachers of the Goſpel,</hi> 1 <hi>Pet.</hi>
+1.12. They rejoyced to ſee the Faithfulneſs of GOD in the fu<g ref="char:EOLhyphen"/>ture
+accompliſhment of his Promiſes. And to this purpoſe St. <hi>Paul</hi>
+informs us, that the <hi>Patriarchs</hi> and <hi>Holy Men</hi> of old <hi>dy'd
+in the Faith, not having receiv'd the Promi<g ref="char:EOLhyphen"/>ſes, but having ſeen them afar
+off, and were perſwaded of them and embraced them. Heb.</hi> 11.13. Yet all
+this at a diſtance. Thus <hi>Balaam, Numb.</hi> 24.17. <hi>I ſee Him, but
+not now; I behold Him, but not nigh.</hi> But 'tis our happineſs that we are
+come to that Bleſſed State, which Our Saviour appropriates to his
+Diſciples. <hi>We ſee thoſe things which ſo many Kings and Righ<g ref="char:EOLhyphen"/>teous
+Perſons deſired to ſee, and did not ſee them. John</hi> the
+<hi>Baptiſt</hi> who Baptized Him, bore Witneſs of Him, and foretold his
+Death; yet never ſaw it. This was an Advantage reſerved for us. His Death
+is now in moſt lively Colours preſented to our View. It is Matter of Fact,
+cer<g ref="char:EOLhyphen"/>tain and indubitably atteſted. He is come down from Heaven; He has taken
+our Fleſh upon Him; diſcharged the Fun<g ref="char:EOLhyphen"/>ctions of his Miniſtery here upon
+Earth, <pb n="34" facs="tcp:99726:24"/>Sanctify'd Himſelf for our ſakes; ſuffer'd
+Death, and ordained a Memorial of it, as of a thing paſt and done. They of
+old had no diſtinct knowledge of the Death of the <hi>MESSIAS,</hi> nor of
+the kind and manner of it. All which is clearly manifeſted to us, at this
+Day. And though the <hi>Jew</hi> meets with Matter of Scandal, and the
+<hi>Gentile</hi> and occaſion of Re<g ref="char:EOLhyphen"/>proach, yet the <hi>Chriſtian</hi>
+finds ſubject of the moſt exalted Joy and Comfort, in the Celebration of
+theſe Holy Myſte<g ref="char:EOLhyphen"/>ries.</p>
+                     <p>THE Second Comfort the <hi>Euchariſt</hi> adminiſters to
+the Faithful, is exceeding ſweet, and raviſhing. We can no ſooner in our
+Meditations, reflect upon the fulfil<g ref="char:EOLhyphen"/>ling of the ancient Types of the
+<hi>Paſchal Lamb,</hi> and the Oracles of old, concern<g ref="char:EOLhyphen"/>ing the Coming of the
+<hi>MESSIAS,</hi> but we find the ſupport of our Faith, and a ſolid ground
+for our Hope to reſt on. Who can conceive the leaſt doubt of GOD'S
+performing thoſe Promiſes, the Execution of which ſeems as yet very
+difficult, and at a great diſtance, ſince He has already fulfilled that of
+ſending the <hi>MESSIAS,</hi> who had been ſo long looked for, during the
+Courſe of ſo ma<g ref="char:EOLhyphen"/>ny Ages? <hi>He ſills us with good hopes for 
+<pb n="35" facs="tcp:99726:24"/>things to come</hi> (ſays an ancient Father) <hi>For He
+who has given Himſelf to us here, will much rather do ſo hereafter,
+Chryſ. H.</hi> 6. <hi>ad. Pop.</hi> And indeed, who ſees not that this
+Diſpenſation of his being mani<g ref="char:EOLhyphen"/>feſted in our Fleſh, and his Death in
+par<g ref="char:EOLhyphen"/>ticular, muſt fill us with ſtrong and lively Hopes, when we addreſs
+our Prayers to Him? Chriſtian, 'Tis true, thou muſt appear before GOD, but
+GOD <hi>has left all Judgment to the Son;</hi> and He by partaking of Fleſh
+and Blood, is become thy Brother. He ſhed his Blood, and laid down his Life
+to redeem thee; He dy'd to deliver thee from that Miſery and Curſe to which
+thou hadſt doom'd thy ſelf to all Eternity. Wouldſt thou be as ful<g ref="char:EOLhyphen"/>ly
+convinc'd of his tender Love and Com<g ref="char:EOLhyphen"/>paſſion, as thou art of his Power?
+Con<g ref="char:EOLhyphen"/>ſider He feeds thee with his own Blood, and is ſet forth in the Holy
+Supper, as the <hi>Lamb of God.</hi> is it poſſible that this
+Con<g ref="char:EOLhyphen"/>ſideration ſhould not remind us of that Exceſs of Love, which
+prompted Him to die for us? We ſee here not a Sheep, but the Shepheard,
+giving his Life for the Sal<g ref="char:EOLhyphen"/>vation of his Sheep. Where will you meet with a
+Shepheard that feeds his Sheep with his own Blood? Yet JESUS CHRIST, the Great
+Shepheard feeds us with his. <pb n="36" facs="tcp:99726:25"/>What may not we expect from
+ſo punctu<g ref="char:EOLhyphen"/>al a Faithfulneſs, ſupported by a Good<g ref="char:EOLhyphen"/>neſs and
+Compaſſion that is beyond all Example?</p>
+                     <p>THE third Comfort, which we may reap hence, is this, That
+being deliver'd from the Curſe we lay under, every one of us may now ſay to
+his Soul, <hi>Re<g ref="char:EOLhyphen"/>turn unto thy Reſt, O my Soul, for the Lord has dealt
+bountifully with thee;</hi> And with St. <hi>Paul</hi> triumphantly cry out,
+<hi>There is now no condemnation to them who are in CHRIST JES<g ref="char:V">Ʋ</g>S.</hi> 'Tis
+<hi>He has deli<g ref="char:EOLhyphen"/>ver'd us from the fear of Death; by means of which we were all
+our Life's time ſubjects to Bondage.</hi> Before we are convinc'd of this
+Truth we are in a State of Miſery, Ter<g ref="char:EOLhyphen"/>rour and Deſpair. But ſince CHRIST
+has alter'd our Condition, by removing the Curſe that was againſt us, What
+Peace, Joy and Comfort ought not to poſſeſs our Conſciences? If we
+conſider <hi>David</hi>'s Condition before <hi>Nathan</hi> had aſſur'd
+him of GOD'S Pardon, we have a lively Emblem of the lamentable Cir<g ref="char:EOLhyphen"/>cumſtances
+in which the Sinner is, whoſe Ears always ring with the Sound of this
+dreadful Sentence, <hi>Curſed is he, that con<g ref="char:EOLhyphen"/>tinues not in all the Words of
+this Law to do them. Deut.</hi> 27.26. He ſees the Sword of 
+<pb n="37" facs="tcp:99726:25"/>the Deſtroying Angel ready to ſtrike him. But now this
+Sacrament tells him, that God has put away his Iniquities, and re<g ref="char:EOLhyphen"/>moved the
+Curſe he had ſo juſtly drawn down upon himſelf. This Religious
+Ce<g ref="char:EOLhyphen"/>remony which CHRIST has annexed to the Declaration of his Goſpel, is a
+Publick Monument, that GOD hence<g ref="char:EOLhyphen"/>forth is not only become placable, but
+throughly appeaſed and reconciled to Man. He cryes to us, that our Iniquities
+are pardon'd, but ſays the Sinner, what ſhall I offer to GOD to make
+atonement for my offences? Shall I offer him, (as <hi>Abraham</hi> did
+<hi>Iſaac</hi>) my Firſt-born for my Tranſgreſſions? And the
+<hi>Euchariſt</hi> points him (as the <hi>Angel</hi> did <hi>Abraham</hi>) at
+the Victim prepar'd by GOD, or rather beſpeaks him in the Words of St.
+<hi>John</hi> the <hi>Baptiſt, Behold the Lamb of GOD that takes away the Sin
+of the World.</hi> And then the Sinner with Joy and Exultation breaks forth, He
+is, He is indeed come into the World; He has ſuffer'd Death to ſave
+Sinners, whereof I am chief.</p>
+                     <p>NOW, if theſe Reflections on the <hi>Eu<g ref="char:EOLhyphen"/>chariſt</hi>
+afford ſuch Comforts to <hi>Chriſtians</hi> in general, they will more
+ſenſibly affect us, when we come to conſider theſe Com<g ref="char:EOLhyphen"/>forts more
+diſtinctly. The Holy Sacra<g ref="char:EOLhyphen"/>ment <pb n="38" facs="tcp:99726:26"/>by preſerving the
+Remembrance of <hi>CHRIST'S</hi> Death, obliges us more particularly to
+meditate upon this won<g ref="char:EOLhyphen"/>der of the Wiſdom and Love of <hi>GOD,</hi> whereby He
+has deliver'd us from our Sins, by charging them upon our Lord; who, like a
+Sacrifice, was ſlain in the room of Sinners, as the Ram was in the ſtead of
+<hi>Iſaac,</hi> and as the Lambs, which were killed, to redeem the
+Firſt-born of the <hi>Iſraelites,</hi> from the Sword of the Deſtroyer.
+Now as there is nothing more ſtupendous than this Subſtitution, ſo
+nothing yields Con<g ref="char:EOLhyphen"/>ſolation like it. For here we ſee, 1. The Love of the
+Father, who withheld the ſtroke of his Vengeance from Mankind, whereas He
+deſtroy'd the Apoſtate An<g ref="char:EOLhyphen"/>gels, without remedy. 2. The Charity of the Son,
+who is become our Surety. <hi>Herein is the Love of GOD, not that we loved Him
+firſt, but that He loved us. No man has greater love than this, that he lays
+down his Life not for his Friend, but his Ene<g ref="char:EOLhyphen"/>my.</hi> And yet thus far did our
+Saviour's Love carry Him. He preſented Himſelf a Sacrifice to <hi>GOD</hi>
+the Father. He re<g ref="char:EOLhyphen"/>ceived the ſtroke that was to wound us; neither the horror
+of thoſe Crimes we had committed, nor the dreadful Puniſhments that were
+due to us for them, being able <pb n="39" facs="tcp:99726:26"/>to deter Him from taking
+upon him our Nature and Sufferings. <hi>GOD</hi> gave him to us, that He might
+be the High Prieſt of his Church. But He was not inveſted in this Dignity,
+nor is repreſented as making Interceſſion in Heaven for us, neither ſet
+forth as Bleſſing of us, but be<g ref="char:EOLhyphen"/>cauſe He has expiated our Sins, by
+offer<g ref="char:EOLhyphen"/>ing up Himſelf a Sacrifice to free us from Death. <hi>Moſes</hi>'s
+Wife ſeeing her Husband threat'ned with Death by the Angel for her Son's not
+being circumcis'd, thought it expedient to hazard the Child's Life by an
+haſty and venturous Circumciſion, that ſhe might ſecure her Husband
+from the danger that hung over him. <hi>GOD</hi> in this Caſe, does
+ſomething far more great and wonderful for us. He gives the Life of his own
+Son to redeem his Enemies; and behold, the Son readily conſents, and yields
+himſelf, as <hi>Iſaac</hi> did. <hi>Lo, I come</hi> (ſays He) <hi>in the
+Volume of thy Book, it is wriiten of me, I delight to do thy Will, O my
+God.</hi> O Ineffable and a<g ref="char:EOLhyphen"/>mazing Love to Mankind, who deſerved nothing, but
+an Eternal Curſe!</p>
+                     <p>AS it was in the Blood of Lambs, that <hi>GOD</hi> made a
+Covenant with the Peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael,</hi> ſo the <hi>Euchariſt</hi>
+repreſenting to us in the fifth Place, that the Blood <pb n="40" facs="tcp:99726:27"/>of
+CHRIST is the Ground and Foun<g ref="char:EOLhyphen"/>dation of the New Covenant, which GOD has made
+with <hi>Chriſtians,</hi> we can<g ref="char:EOLhyphen"/>not look upon the Sacrament as the Pledge
+and Seal of this Covenant, with<g ref="char:EOLhyphen"/>out being filled with an Exceſs of Joy and
+Conſolation. For indeed, what greater Glory can be imagined, than for Man to
+be admitted to a Treaty with <hi>GOD?</hi> And what an inconceivable Ad<g ref="char:EOLhyphen"/>vantage
+is this, that <hi>GOD</hi> ſhould vouch<g ref="char:EOLhyphen"/>ſafe to enter into Covenant with
+us? There are none but are ſenſible of the Happineſs of the
+<hi>Iſraelites,</hi> in this regard. To be convinc'd of which, we need only
+hear them, even at this day, ſpeaking with the greateſt Comfort, of the
+Honour GOD therein has done them, notwithſtanding their total diſperſion,
+and groaning un<g ref="char:EOLhyphen"/>der the Burthen of that Curſe, which pur<g ref="char:EOLhyphen"/>ſues and overtakes
+them every where. Now, that ancient Covenant GOD has aboliſhed, as being
+imperfect; but this which we commemorate, is to endure for ever. The Deſign
+of the former was only to give the <hi>Jews</hi> a lively Senſe of Sin, or at
+the beſt to adminiſter a Typi<g ref="char:EOLhyphen"/>cal Expiation; whereas the latter,
+<hi>viz.</hi> the New (according to the Prophet <hi>Je<g ref="char:EOLhyphen"/>remy</hi>) makes a true
+Atonement for Sin, <pb n="41" facs="tcp:99726:27"/>and affords a Remiſſion rightly and
+pro<g ref="char:EOLhyphen"/>perly ſo call'd. <hi>That</hi> had no promiſes, but what concern'd a
+Happineſs here on Earth; whereas <hi>This</hi> does promiſe a
+Re<g ref="char:EOLhyphen"/>ſurrection and Eternal Glory.</p>
+                     <p>THE greateſt Honour the Old Cove<g ref="char:EOLhyphen"/>nant did confer upon the
+<hi>Jews,</hi> was this, That the <hi>MESSIAS</hi> ſhould be born of their
+Blood; but the Advantage of the New, is, That the <hi>MESSIAS</hi> partak<g ref="char:EOLhyphen"/>ing
+of Fleſh and Blood with the reſt of Mankind, has given his own Blood to
+raiſe them to the Glory of Adoption, who ſhall believe in Him. <hi>O how
+happy is the People, whoſe God is the Lord!</hi> And what does this
+Expreſſion, to be the God of any one, import, but this, <hi>viz.</hi> To be
+his Great and Soveraign Benefactor? Of old He was the GOD of <hi>Abraham,</hi>
+but not of <hi>Loth,</hi> and his Poſterity; Of <hi>Iſaac,</hi> but not of
+<hi>Iſmael</hi> and his Off-ſpring; Of <hi>Jacob,</hi> but not of
+<hi>Eſau</hi> and the <hi>Edomites.</hi> Now, He is the GOD of all the Earth.
+But he has not made this Covenant with all the Nations of the World, ſave
+only by virtue and on the Sole Account of the Blood of <hi>CHRIST.</hi> And can
+we with any attention, reflect on this Truth, repre<g ref="char:EOLhyphen"/>ſented to us in the
+<hi>Holy Euchariſt,</hi> with<g ref="char:EOLhyphen"/>out feeling a Joy unſpreakable and full of 
+<pb n="42" facs="tcp:99726:28"/>Glory? GOD had promiſed to enter into ſuch a Covenant,
+as this; and <hi>Jere<g ref="char:EOLhyphen"/>my</hi> deſcribes it in the 31. <hi>Chap.</hi> of his
+Prophecies; Yet the Old laſted till <hi>John</hi> the <hi>Baptiſt,</hi> and
+ſo long the Ceremonies of it were in uſe. But then comes <hi>CHRIST,</hi>
+and inſtead of continuing the Celebration of the Old Covenant, which was made
+in the Blood of the <hi>Paſchal Lamb,</hi> He abro<g ref="char:EOLhyphen"/>gates it, and in its room
+ſubſtitutes the New Covenant, made in his own Blood. <hi>Do this</hi>
+(ſays He) <hi>in remembrance of me.</hi> Not <hi>That</hi> which was done
+before, but <hi>This: For this Cup is the New Teſtament in my Blood, which is
+ſhed for the Remiſſion of your Sins.</hi>
+                     </p>
+                     <p>TO conclude, 'tis to be conſidered (and this is the laſt
+Vein of Comfort hid in the <hi>Euchariſt</hi>) that this Holy Sacra<g ref="char:EOLhyphen"/>ment
+inviting us to take a View of <hi>CHRIST'S</hi> ſecond Coming, as well as of
+his Diſpenſation in the Fleſh, 'tis im<g ref="char:EOLhyphen"/>poſſible but it muſt fill
+our Souls with ſurpaſſing Joy and Comfort. The full Salvation of
+Believers does, as yet, only conſiſt in Hope. GOD indeed pardons their
+Sins; but they are ſtill ſubject to all the Miſeries Sin has brought into
+the World. They hope for Eternal Life; and yet dye like other Men. Their Bodies
+<pb n="43" facs="tcp:99726:28"/>are laid in the Grave, and become the food of Worms. So
+that their Expectation ſeems to be quite fruſtrated. And as the
+<hi>Jews</hi> and <hi>Gentiles</hi> find Matter of Scandal and Deriſion in
+the Death of the <hi>Son</hi> of GOD, ſo according to all outward
+ap<g ref="char:EOLhyphen"/>pearance, they have the ſame reaſon to in<g ref="char:EOLhyphen"/>ſult over the Faith and Hope
+of his Fol<g ref="char:EOLhyphen"/>lowers, when they compare theſe with their preſent Condition,
+which to the Eye, differs not from that of other Men. But all theſe dark
+Clouds ſhall at laſt be ſcat<g ref="char:EOLhyphen"/>ter'd; theſe Shadows vaniſh, and <hi>the
+Glo<g ref="char:EOLhyphen"/>ry of our Lord and his Faithful be revealed. He ſhall appear from Heaven
+in the Glory of his Father, and every Eye ſhall ſee Him, even they who have
+pierced Him.</hi> And as He will thus diſplay his Majeſty in the Sight of
+all the World, ſo will He at the ſame time unvail the Life and Glory of his
+Children, who at preſent are ready to ſink under the burthen of Sin, the
+Vio<g ref="char:EOLhyphen"/>lence of <hi>CHRIST</hi>'s Adverſaries, the de<g ref="char:EOLhyphen"/>ceits of the World, and
+the Devil, and the Power of Death, which is the laſt E<g ref="char:EOLhyphen"/>nemy of CHRIST and his
+Church. <hi>He that eats my Fleſh and drinks my Blood has Eternal Life, and I
+will raiſe him up at the laſt day. Whoſoever eats of this Bread ſhall
+live for ever.</hi> Theſe are our Savi<g ref="char:EOLhyphen"/>our's <pb n="44" facs="tcp:99726:29"/>Promiſes,
+wherein as He terms the Embracing of Him by Faith, an Eating of his Fleſh, in
+oppoſition to the Type of <hi>Manna;</hi> So this Eating may be as truly
+aſcribed to them, who by Faith conſider Him, as the Sacrifice that has
+taken away the Puniſhment due to Sin. O what comforts do ariſe to the
+Faithful from the Expectation of this his Return! What exulting Joys will they
+be filled with at his Coming! What Delights flow in upon them as they mediate
+hereon! What raviſhing Pleaſures does it afford us amidſt the greateſt
+Evils of this Life! What quiet in the ſharpeſt Trials! And what Confidence
+even at the time when Death ſtares us in the Face!</p>
+                  </div>
+                  <div n="6" type="chapter">
+                     <head>
+                        <hi>CHAP. VI.</hi> Of the Duties preſcribed to us in the
+Holy Euchariſt.</head>
+                     <p>I SUPPOSE I have very clearly made out, that it is
+impoſſible atten<g ref="char:EOLhyphen"/>tively to conſider the Truths, which the 
+<pb n="45" facs="tcp:99726:29"/>Lord's Supper diſcovers to us, without reaping the
+unſpreakable Comforts which ſo naturally ſpring from it. And it may (with
+as much Eaſe) be demonſtrated, that theſe Truths indiſpenſably engage
+us to the moſt Eſſential Duties of our Religion; and that GOD having
+comprehended what is moſt capable to adminiſter the ſweeteſt
+Conſolations to our Souls, in this Myſtery, it cannot but at the ſame
+time be very influential towards Sanctification and a Godly Life. To the making
+out of which I deſign the Concluſion of this Treatiſe, where I intend to
+repreſent theſe Duties, as the neceſſary and natu<g ref="char:EOLhyphen"/>ral Conſequents of
+what I have before laid down. It behooves every Commu<g ref="char:EOLhyphen"/>nicant ſeriouſly to
+conſider of theſe En<g ref="char:EOLhyphen"/>gagements; And the rather, becauſe this is a ſure
+way for them to know whether they have worthily receiv'd the Sacra<g ref="char:EOLhyphen"/>ment, or to
+amend the faults by them committed in any preceding Communi<g ref="char:EOLhyphen"/>on, for want of
+diſcharging theſe Reli<g ref="char:EOLhyphen"/>gious performances as they ought.</p>
+                     <p>FIRST then, Is it poſſible that a <hi>Chriſtian,</hi>
+who knows that JESUS CHRIST deſigned the Celebration of the
+<hi>Euchariſt</hi> for a publick Monument of his Death, as of a moſt Signal
+Event, <pb n="46" facs="tcp:99726:30"/>worthy of all Commemoration, ſhould expreſs any
+neglect of, or indifference for this Sacred Feaſt? The Primitive Church
+called the Faithful to it every Lord's Day, looking upon the partak<g ref="char:EOLhyphen"/>ing of this
+Holy Sacrament, as a Publick Profeſſion of our Faith, and the very Badge of
+Chriſtianity. And ſhall our re<g ref="char:EOLhyphen"/>miſſneſs and coldneſs in Religion be
+a law<g ref="char:EOLhyphen"/>ful Excuſe for our abſenting our ſelves from the Lord's Table, when
+He him<g ref="char:EOLhyphen"/>ſelf invites us to it, and affords us op<g ref="char:EOLhyphen"/>portunities for it? Some
+perhaps will fancy that they have a juſt pretence to abſtain from
+Receiving, becauſe of dif<g ref="char:EOLhyphen"/>ferences or Law-ſuits they are engaged in. But if
+CHRIST debars them his Table, who are ſo unkindly diſpoſed to<g ref="char:EOLhyphen"/>wards their
+Neighbours, does not He teach us withal, and point us at the Re<g ref="char:EOLhyphen"/>medy that is to
+be found for the Cure of ſuch Uncharitableneſs? He tells us, in this
+Caſe, that he who is about to offer, <hi>muſt leave his Gift before the
+Altar, and go and firſt be reconciled to his Brother, and then come and offer
+his Gift, Mat.</hi> 5.24. And why this? But to teach us, that we muſt either
+wholly renounce our Religion, or elſe put our ſelves upon faithful
+En<g ref="char:EOLhyphen"/>deavours to obey the Laws of it; That <pb n="47" facs="tcp:99726:30"/>a Profeſſion
+of Chriſtianity is both Er<g ref="char:EOLhyphen"/>roneous and impious, which is not ac<g ref="char:EOLhyphen"/>companied
+with a Practice of the Duties it preſcribes; and that it is impoſſible
+for a Man, with any fruit or benefit, to perform the publick Requirings of it,
+while its moſt important Precepts and Rules are neglected.</p>
+                     <p>SECONDLY, let it be obſerv'd, That ſince Chriſtians look
+upon the Ce<g ref="char:EOLhyphen"/>lebration of the <hi>Euchariſt,</hi> as a convinc<g ref="char:EOLhyphen"/>ing Proof of
+the Truth of their Religi<g ref="char:EOLhyphen"/>on (it being a publick Memorial of Our Saviour's
+Death, which was a moſt ſignal fulfilling of GOD's Promiſes, and an
+E<g ref="char:EOLhyphen"/>vident Character, whereby CHRIST was to be known for the true
+<hi>Meſ<g ref="char:EOLhyphen"/>ſias</hi>) they cannot but find a Natural Ob<g ref="char:EOLhyphen"/>ligation incumbent on
+them to become <hi>Chriſtians</hi> indeed. The Sacrament of Baptiſm is
+conferr'd upon us at a time when we know not the Nature of the En<g ref="char:EOLhyphen"/>gagements we
+enter into, nor the Juſtice and Extent of the Promiſes made in our behalves
+therein. But he who receives the Lord's Supper, ratifies before GOD and
+<hi>Man,</hi> the Promiſes made in his Name at his Baptiſm. And this he
+does in his own perſon, as ſuppoſing he has now ſuffici<g ref="char:EOLhyphen"/>ently examined
+the Truth of the Religi<g ref="char:EOLhyphen"/>on <pb n="48" facs="tcp:99726:31"/>on he profeſſes. He is
+ſatisfy'd that his Parents have done him the greateſt kind<g ref="char:EOLhyphen"/>neſs
+imaginable, by engaging him in GOD's Service from his moſt tender In<g ref="char:EOLhyphen"/>fancy;
+and that they did well to conſe<g ref="char:EOLhyphen"/>crate him to it for ever, ſince it is in
+this Profeſſion his whole Happineſs conſiſts; and he now ſolemnly
+renews the Oath of his inviolable Obedience and Faithfulneſs to GOD, which
+before he had done by his Sureties. Can we thus reflect upon the Participation
+of the <hi>Euchariſt,</hi> and not conceive a moſt ſenſible ſorrow
+for ha<g ref="char:EOLhyphen"/>ving acted contrary to the <hi>Laws</hi> of CHRIST and Our own
+<hi>Hopes?</hi> Can we entertain this Notion of it, and not reſolve for the
+time to come; more dili<g ref="char:EOLhyphen"/>gently to purſue Our Heavenly Calling, and more
+exactly anſwer the Holy Deſign of the Religion we profeſs? Certainly it
+is againſt Common Senſe to pretend to be a <hi>Chriſtian,</hi> and yet to
+live like a <hi>Jew,</hi> or <hi>Heathen.</hi> It is ridiculous, outwardly to
+acknowledge Laws more Holy and Di<g ref="char:EOLhyphen"/>vine, than thoſe the World is governed by,
+and at the ſame time to follow the Cuſtoms and Manners of Worldly Men. All
+the Vices of the Age ought to find their Death in this Reflection, as they do
+their Condemnation in the ſacred Laws <pb n="49" facs="tcp:99726:31"/>and Religion of Our
+Lord and Saviour.</p>
+                     <p>WE come now to a third Reflection upon the Holy Communion,
+which is no leſs plain and natural than the foregoing, <hi>viz.</hi> That in
+this Sacrament we conſider the Death of CHRIST, as the Source of that
+Bleſſing GOD had promiſed, and the Principle of all thoſe He will
+hereafter impart to us. This Notion ſets before our Eyes the Curſe we
+ſhould inevitably have fallen under, had not GOD rever<g ref="char:EOLhyphen"/>ſed it. Can any one
+ſeriouſly think of this Truth, without praiſing God with all the Power of
+his Soul, and returning the Fruits of a juſt acknowledgement to Him for the
+ſame? O how dreadful a thing it is, to be accurſed of GOD! <hi>Go ye
+Curſed into Eternal Fire, prepared for the Devil and his Angels.</hi> And on
+the contrary, how tranſporting and full of Comfort it is, to be bleſſed
+by Him. JE<g ref="char:EOLhyphen"/>SUS CHRIST, the Bleſſed of GOD, has bleſſed us with all
+manner of Bleſſings. He became a Curſe for us, that we might be made a
+Bleſſing of God in Him. <hi>Come</hi> (ſayes He) <hi>Ye Bleſſed of my
+Father.</hi> And by what other means can we be raiſed to this Bliſs, but by
+the Study and Practice of Holineſs? It was the Unhappineſs of the
+<hi>Jews</hi> to fancy, that all ſhould partake <pb n="50" facs="tcp:99726:32"/>of GOD'S
+Promiſes to <hi>Abraham,</hi> who were deſcended from him after the
+Fleſh. But the Goſpel acquaints us with theſe three Things. 1. That Faith
+in CHRIST is the means GOD has appointed to make the <hi>Heathens</hi>
+partakers of this Ad<g ref="char:EOLhyphen"/>vantage. 2. That the Profeſſion of be<g ref="char:EOLhyphen"/>lieving in
+CHRIST is vain, and de<g ref="char:EOLhyphen"/>ceitful, where it is unaccompanied with an Holy Life.
+<hi>Faith without Works is Dead.</hi> It is but a pretended and falſe
+Profeſſion. 3. And Laſtly, That JESUS CHRIST will never own any for the
+Bleſſed of his Father, but ſuch as by their Works of Charity and
+Perſeverance in Godlineſs, ſhall have made good the Sincerity of their
+adherence to his Religion.</p>
+                     <p>TO this we are further engaged by a fourth Reflection, which
+we make upon the Father's giving his own Son for a Sacrifice to expiate our
+Crimes. Here we ſee on one hand, the Extream <hi>Averſion</hi> GOD has for
+<hi>Sin,</hi> while on the other, we diſcover the infinite <hi>Love</hi> He
+expreſſes to <hi>Sinners.</hi> We have ſet before us the lively Image of
+that Abyſs of Miſery into which we had been plung'd, had not GOD prepar'd
+this his <hi>Lamb,</hi> who gave his own Blood and Life to redeem us. Now our
+Hearts muſt be utterly obdurate and inſenſible, <pb n="51" facs="tcp:99726:32"/>not
+to make a moſt ſerious reflection up<g ref="char:EOLhyphen"/>on on this Hatred, GOD bears to Sin.
+We behold it puniſhed in a moſt dreadful and affrighting Manner, when GOD
+de<g ref="char:EOLhyphen"/>ſtroy'd the Old World by the Deluge, and rain'd down Fire from Heaven on
+<hi>Sodom,</hi> and the Cities that ſnar'd in her unnatural Luſts. Theſe
+Puniſhments were Marks of his Juſtice, taking Ven<g ref="char:EOLhyphen"/>geance of Sinners. But
+how infinitely more terrible is GOD'S Deteſtation of Sin, pourtrai'd in the
+Death of his Dear and Only Begotten Son, whom we ſee <hi>ſmitten for our
+Iniquities,</hi> and in all out<g ref="char:EOLhyphen"/>ward apparance <hi>forſaken of his
+Father.</hi> St. <hi>Peter</hi> had not yet ſeen Him extended on the Croſs,
+nor heard Him uttering theſe doleful Words, <hi>My God, my God, Why haſt
+thou forſaken me?</hi> Yet could not he, when he ſaw Him only expoſed to
+his firſt Reproaches, forbear ſhedding Tears of a true Repentance. And what
+may then be expected from a Sinner, who in the Sacrament of the
+<hi>Euchariſt,</hi> has all the <hi>Ideas</hi> of his Agony, Sufferings and
+Death, moſt lively delineated to Him? What an irreconcilable Averſion ought
+not he to conceive for his Sins? What Reſolutions ought not he to take of
+leaving and for<g ref="char:EOLhyphen"/>ſaking them for ever?</p>
+                     <pb n="52" facs="tcp:99726:33"/>
+                     <p>AND to this we find our ſelves ſtill more
+indiſpenſably oblig'd, by the Nature of this Sacrament. For, in the fifth
+Place, it is (as I have ſaid before) the Memorial of CHRIST'S Blood, by
+vir<g ref="char:EOLhyphen"/>tue whereof GOD has made a New Covenant with Sinners; In which He has
+aſſured us, that He will forgive us our Sins, and beſtow the Glory of his
+King<g ref="char:EOLhyphen"/>dom upon us. But the Condition with<g ref="char:EOLhyphen"/>out which we cannot be made Partakers
+either of the Remiſſion of Sins, or of the Glory of Heaven, is, the
+Repenting of our Iniquities, and applying our ſelves to the Study of
+Sanctification, to our Life's End. The Beneſit of this New Covenant is, That
+God remembers our Tranſgreſ<g ref="char:EOLhyphen"/>ſions no more; but the Condition He re<g ref="char:EOLhyphen"/>quires
+of us, is, That whereas the <hi>Jews</hi> laid up his Laws in the Ark, without
+ha<g ref="char:EOLhyphen"/>ving them in their Hearts, we muſt al<g ref="char:EOLhyphen"/>ways have them written in ours, in
+order to a continual Religious Obſervance of them. Now, as it is his Will,
+that we ſhould daily beg of Him the Pardon of Our Sins (which plainly ſhews
+He is ready to grant it us;) ſo the Only Command He lays upon us, is, That
+for the time to come we ſin no more, leſt a worſe thing befall us. And
+indeed is it not exceed<g ref="char:EOLhyphen"/>ingly <pb n="53" facs="tcp:99726:33"/>unaccountable, that Men, who
+would paſs for Children of GOD, ſhould live the life of Devils? That they,
+who look upon themſelves as Confederates with CHRIST, ſhould continually
+violate the Conditions of this Covenant? GOD reminded the <hi>Jews</hi> of
+their Obligation to Holineſs, upon the account of his being their GOD.
+<hi>Moſes</hi> implies thus much in the 24. Chap. of <hi>Exodus,</hi> where
+the People having accepted of the Laws which he had propounded to them from
+<hi>GOD,</hi> after he had wrote them in a Book, and read the ſame in the
+Audience of the Congregation, they anſwer'd, <hi>All that the Lord has ſaid
+will we do, and be obedient.</hi> Whereupon <hi>Moſes</hi> ſprinkled the
+Blood on the People, and ſaid, <hi>Be<g ref="char:EOLhyphen"/>hold the Blood of the Covenant, which
+the Lord has made with you concerning all theſe Words.</hi> And ſhall
+Chriſtians believe, that <hi>GOD</hi> will own them for his People, while
+they remain in their Bondage to Sin? The Meaning of the Covenant we have made
+with GOD, has been clearly expreſſed by a Pagan, <hi>viz. Pliny,</hi> who
+in his Epiſtle to the Emperour <hi>Trajan</hi> (<hi>Lib.</hi> 10.
+<hi>Ep.</hi> 97.) thus explains the Notion Chriſtians had of this Glorious
+Covenant, they were enter'd into with GOD, <hi>They <pb n="54" facs="tcp:99726:34"/>bind
+themſelves</hi> (ſays he) <hi>by a Sacrament or Oath, not to commit any
+ſuch Crimes, as are falſly reported of them, but to abſtain from Robbery,
+Theft and Adultery, to be as good as their Word, and Faithful to their Truſt,
+&amp;c.</hi> He plainly ſhews, that Belie<g ref="char:EOLhyphen"/>vers looking upon themſelves as
+Confe<g ref="char:EOLhyphen"/>derates and Parties in the ſame Covenant with GOD, baniſhed all
+manner of Di<g ref="char:EOLhyphen"/>viſions from the midſt of them; And fur<g ref="char:EOLhyphen"/>ther intimates, that
+as they did all eat of the ſame Bread, ſo they were of one Heart and Mind,
+and united to GOD by their reſemblance of Him, and imita<g ref="char:EOLhyphen"/>tion of his
+Holineſs. Now ſince that time the Goſpel is not alter'd; for its Maxims
+are unchangable. Neither is it only with reſpect to the Prophecies or
+Promiſes therein contained, that it abides to Eter<g ref="char:EOLhyphen"/>nity, without any
+poſſibility, that ſo much as one tittle of it ſhould ever fall to the
+Ground; but the ſame muſt be underſtood of it, as it is the Rule of our
+Life and Manners, preſcribed to us by our Lord and Maſter.</p>
+                     <p>LAST of all, Since JESUS CHRIST has in this Sacrament, united
+the Memo<g ref="char:EOLhyphen"/>rial of his Coming in Glory to the Re<g ref="char:EOLhyphen"/>membrance of his Humiliation
+even unto Death, will not this Conſideration moſt <pb n="55" facs="tcp:99726:34"/>naturally inſpire us with powerful Encou<g ref="char:EOLhyphen"/>ragements to Piety, and an
+indefatigable Perſeverance in that Fidelity we owe to Him? In commemorating
+our Saviour's Paſſion, we are oblig'd to deny our ſelves, and to be ready
+to lay down our Lives, whenſoever it ſhall pleaſe God to require it, in
+order to the advancement of his Glory. JESUS CHRIST tells us, that he is
+unworthy of Him, who is not willing to leave all to follow Him. He has given
+his own Life for us, and calls us to a like Abnegation of our ſelves. They
+who ſeek their own Pleaſures, deſire to be Rich: But CHRIST choſe a
+Volunta<g ref="char:EOLhyphen"/>ry Poverty. They are Ambitious of Ho<g ref="char:EOLhyphen"/>nours, whereas He refuſed to be
+made a King. They fear Death; but He freely ſubmitted Himſelf to it. They
+abhor the Croſs, that ignominious and painful way of Dying; whereas He
+declined not to be Crucified. We can commit no Sin, but ſo far as we deſire
+the things which He deſpiſed, or endeavour to avoid thoſe He ſo
+willingly underwent. Certainly the ſight of this Example ought powerfully to
+oblige us to an imitation of it. It was a Saying of St. <hi>Cyprian</hi>'s
+(<hi>Epiſt.</hi> 30.) <hi>That Men are not fitted for Martyrdom, when they
+are not furniſhed for the, Fight out of <pb n="56" facs="tcp:99726:35"/>the Church's
+Magazine, and that the Soul is apt to faint, when it is not ſtrength'ned by a
+fre<g ref="char:EOLhyphen"/>quent Communion.</hi> This Father was in the right, and his Reaſon for
+it, is the more Solid, becauſe the <hi>Euchariſt,</hi> immediately after it
+has exhibited to us the Repreſen<g ref="char:EOLhyphen"/>tation of our Lord's Death (which arms us
+with conſtancy,) ſhews us the Reward of Believers, by ſetting before our
+Eyes his Coming again from Heaven to glorify them. 'Tis this Return of our
+Lord, that will prove the great Comfort of the Righ<g ref="char:EOLhyphen"/>teous, and at the ſame
+time, a dread and trouble to the Wicked. JESUS CHRIST, by thus reminding us of
+his Glory, while we are meditating upon his Sufferings, does much the ſame
+thing He did upon the Croſs; where he accepted of the Repen<g ref="char:EOLhyphen"/>tance of the
+Converted Thief, approved of the Acts of his Faith, the Marks of his Love and
+Tokens of his Zeal for the Innocence and Glory of this JESUS, whom he now
+look'd upon, as his Saviour. CHRIST kindly received and rewarded the evident
+Expreſſions of his Hopes. But on the other hand, puniſhed the Unbelief
+and Impenitence of his Companion; He aſſured the former, that he would
+admit Him into his Kingdom, becauſe He ſaw in his Heart the Character of a
+ſincere <pb n="57" facs="tcp:99726:35"/>Believer, and all the generous Inclinations of a
+Martyr; but left the latter to the juſt deſerts of his Iniquities. A true
+Penitent meets with the greateſt Comforts imagi<g ref="char:EOLhyphen"/>nable in the
+<hi>Euchariſt,</hi> where the Impeni<g ref="char:EOLhyphen"/>tent (who <hi>treads under foot the
+Blood of the Covenant, and diſcerns not the Lord's Body</hi>) <hi>receives
+his own Damnation.</hi> 'Tis abſolutely impoſſible this Sacrament
+ſhould not have ſuch different Effects upon theſe two ſorts of
+Communicants. For from it proceeds a Voice, that proclaims Pardon to peni<g ref="char:EOLhyphen"/>tent
+Sinners; and in it we plainly ſee the Solid Foundation of that Mercy, which
+GOD will in his due time, fully diſplay; But withal we ought to take notice
+it cries aloud, that we muſt enter upon the Way of Holineſs, and
+perſevere therein to the End, even to Death, as JESUS CHRIST did, if we
+deſire to <hi>appear with full aſ<g ref="char:EOLhyphen"/>ſurance before his Throne, who is to
+judge all Men at the laſt Day,</hi> and <hi>render to eve<g ref="char:EOLhyphen"/>ry one according to
+his Works.</hi>
+                     </p>
+                  </div>
+                  <trailer>THE END.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:99726:36"/>
+                  <pb facs="tcp:99726:36"/>
+                  <p>EPICTETUS CHRISTIANUS; OR, Maxims OF TRUE CHRISTIANITY.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Brab. Aylmer,</hi> at the three
+<hi>Pigeons</hi> in <hi>Cornhil.</hi> 1688.</p>
+               </div>
+               <div type="notice">
+                  <pb facs="tcp:99726:37"/>
+                  <pb facs="tcp:99726:37"/>
+                  <head>Advertiſement TO THE READER.</head>
+                  <p>THERE is nothing in theſe MAX<g ref="char:EOLhyphen"/>IMS, but what is univerſally
+ac<g ref="char:EOLhyphen"/>knowledg'd and receiv'd by the CHRISTIAN World; And though they are all ſo
+very plain and evident, as not to be lyable to the leaſt Diſpute; yet it
+was ſuppos'd, that a <hi>Collection</hi> of them, would not be altogether
+unprofitable. 'Tis true, no Body will argue againſt them, when propos'd; Yet
+it muſt be granted, there are very few that mind, and fewer that practiſe
+them.</p>
+                  <p>THERE be many, who fancy they are good CHRISTIANS, becauſe
+they apply them<g ref="char:EOLhyphen"/>ſelves to the Outward <hi>Duties</hi> of <hi>Religion;</hi>
+Others think they go much further, becauſe they <pb facs="tcp:99726:38"/>ſtudy thoſe
+<hi>Diſputable Points,</hi> which divide CHRISTIANS among themſelves. This
+<hi>Cuſtomary Devotion,</hi> or <hi>Controverſial Di<g ref="char:EOLhyphen"/>vinity</hi> is not
+chiefly That, which GOD requires of us. There is ſomething more ſublime and
+ſa<g ref="char:EOLhyphen"/>tisfactory in the Sincere Profeſſion of Religion.</p>
+                  <p>IN theſe <hi>Maxims</hi> an Eſſay is made to give an
+<hi>Idea</hi> of <hi>Chriſtian Duties</hi> to ſuch, as never have made it
+their buſineſs to inform them<g ref="char:EOLhyphen"/>ſelves about them. If there be any, who
+object that they contain nothing but ſome very common Reflections, which are
+frequently heard from the <hi>Pulpit,</hi> they ought to conſider, that they
+are the leſs excuſable for their ignorance of, or not practiſing
+<hi>(Maxims)</hi> which would not be ſo often inculcated, were they not the
+moſt Eſſential Part of <hi>Goſpel-Precepts.</hi>
+                  </p>
+                  <p>THE only aim in the Method obſerv'd, and Brevity affected
+here, is to make the <hi>Rea<g ref="char:EOLhyphen"/>der</hi> more eaſily ſenſible of the
+neceſſity of theſe <hi>Reflections,</hi> and the Importance of the Truths
+contained in them. <hi>GOD</hi> grant, that as the <hi>Deſign</hi> in Writing
+of them, was to be ſubſervient to the <hi>Salvation</hi> of Sin<g ref="char:EOLhyphen"/>ners; ſo
+they may ſtir up in ſome a <hi>Deſire</hi> of employing themſelves,
+with more care and fervency, about the <hi>Duties</hi> they point at.</p>
+               </div>
+            </front>
+            <body>
+               <div type="maxims">
+                  <pb facs="tcp:99726:38"/>
+                  <head>EPICTETUS CHRISTIANUS; OR, Maxims OF TRUE
+CHRISTIANITY.</head>
+                  <div n="1" type="maxim">
+                     <head>
+                        <hi>MAXIM I.</hi> That it behooves us to have Maxims of
+<hi>Piety.</hi>
+                     </head>
+                     <p>THE moſt important Duty of Man, is <hi>Piety.</hi> It is no
+very great matter whether we are ſucceſs<g ref="char:EOLhyphen"/>ful, or not, in all other
+Employ<g ref="char:EOLhyphen"/>ments of this Life, provided we diſcharge <pb n="64" facs="tcp:99726:39"/>well the
+<hi>Duties</hi> of CHRISTIANITY; and approve our ſelves juſt and honeſt.
+In ſuch Caſe we cannot miſs of being happy.</p>
+                     <p>HOW great an Error is it to frame <hi>Maxims</hi> to our
+ſelves, whereby to attain Skill in <hi>Arts</hi> and <hi>Sciences,</hi> while
+at the ſame time we neglect to uſe the like Me<g ref="char:EOLhyphen"/>thod in the concerns of
+<hi>Godlineſs?</hi> No wonder therefore that ſo little Progreſs is made
+in it. Is it poſſible for him to ad<g ref="char:EOLhyphen"/>vance in his way, who keeps no certain
+path?</p>
+                     <p>WE muſt cure our ſelves of that raſh<g ref="char:EOLhyphen"/>neſs and
+inadvertency, which common<g ref="char:EOLhyphen"/>ly attend our actions. Certainly the Thing upon
+which our Eternal Happi<g ref="char:EOLhyphen"/>neſs, or Everlaſting Miſery depends, is well
+worth our moſt ſerious Conſideration. We muſt furniſh our Hearts with
+<hi>Max<g ref="char:EOLhyphen"/>ims</hi> of <hi>Piety,</hi> and purſue them with the ut<g ref="char:EOLhyphen"/>moſt
+earneſtneſs.</p>
+                  </div>
+                  <div n="2" type="maxim">
+                     <pb n="65" facs="tcp:99726:39"/>
+                     <head>
+                        <hi>MAXIM II.</hi> That it imports us in, the firſt
+place, to examine what our Chief and Laſt End is.</head>
+                     <p>THE firſt Act of Wiſdom is, to exa<g ref="char:EOLhyphen"/>mine how we came into
+the World; whether by an Effect of Chance, or that we owe our Being to the
+Almighty Hand of GOD, who created us.</p>
+                     <p>THE Second; Whether we ought to govern our ſelves by Rules;
+or, without any the leaſt reflection or reſtraint, may give way to all the
+thoughts of our Hearts, the words of our Mouths, and the works of our
+Hands.</p>
+                     <p>AND laſtly, the Chief Act of Wiſ<g ref="char:EOLhyphen"/>dom is, to conſider
+what we ought to be, and how to behave our ſelves with reſpect to our
+Laſt End. GOD having of his Goodneſs, created us, we muſt be entire<g ref="char:EOLhyphen"/>ly
+ſubject to Him. Let us therefore look upon our ſelves as made for Him, and
+conſequently ſo direct the whole Courſe of our Life, that it may
+contribute to his Glory.</p>
+                  </div>
+                  <div n="3" type="maxim">
+                     <pb n="66" facs="tcp:99726:40"/>
+                     <head>
+                        <hi>MAXIM. III.</hi> That in all our actions, we ought to
+have a due regard to our Laſt End.</head>
+                     <p>IT is moſt ſtrange and deplorable, to ſee the greateſt
+part of Mankind de<g ref="char:EOLhyphen"/>part this Life, without a juſt conſide<g ref="char:EOLhyphen"/>ration and
+knowledge of the End, for which they were brought into it. This ariſes either
+from their never entertain<g ref="char:EOLhyphen"/>ing any thoughts of the Matter, or neglecting to
+acquaint themſelves with it throughly.</p>
+                     <p>AND yet a more ſad thing it is, when after this Examination
+and Knowledge had of our Laſt End, we do not act con<g ref="char:EOLhyphen"/>formable to our
+Informations and Refle<g ref="char:EOLhyphen"/>ctions thereupon. This cannot but ren<g ref="char:EOLhyphen"/>der our
+Diſorders the more inexcuſable, and make our Sins to cry the louder for
+Vengeance.</p>
+                     <p>WE muſt have a continual regard to our Laſt End, that ſo
+it may regulate all the actions of our Life, and make us truly wiſe. But how
+can we think of it, as we ought, without telling our ſelves, that our not
+minding this, muſt needs be our ruin?</p>
+                  </div>
+                  <div n="4" type="maxim">
+                     <pb n="67" facs="tcp:99726:40"/>
+                     <head>
+                        <hi>MAXIM IV.</hi> That we ought to conſider we are God's
+Creatures.</head>
+                     <p>SOME few years ſince, I had no Exi<g ref="char:EOLhyphen"/>ſtence, and now I find
+I have a Being, Life, Motion, a Rational Soul, Inlight<g ref="char:EOLhyphen"/>ned Mind, and a Body
+more perfect, than that of any other Animal.</p>
+                     <p>ALL Creatures adminiſter continual Supplies to my VVants;
+the Heavens afford me their Lights and Influence; the Earth yields me her
+Fruits, Waters and Reme<g ref="char:EOLhyphen"/>dies; the Creatures ſhe abounds with, ſerve for my
+Food, Neceſſity and Delight.</p>
+                     <p>SHALL I be excuſable then, if I for<g ref="char:EOLhyphen"/>get HIM, who made me?
+No, I muſt love Him with all my Soul, obey Him with all Faithfulneſs, and
+in conſideration of theſe his Benefits heap'd upon me, bleſs and magnify
+his Great Name. Theſe are Duties we ſhall find to be abſolutely
+indiſpenſable, if we do but ſeriouſly conſider we are his
+Creatures.</p>
+                  </div>
+                  <div n="5" type="maxim">
+                     <pb n="68" facs="tcp:99726:41"/>
+                     <head>
+                        <hi>MAXIM V.</hi> That we ought to be moſt ſenſible
+of God's Favour in our Preſervation.</head>
+                     <p>WE muſt leave it to <hi>Atheiſts</hi> to at<g ref="char:EOLhyphen"/>tribute their
+Subſiſtence, as they do their Being, to Chance; As for our part, we ought
+to look upon our <hi>Preſer<g ref="char:EOLhyphen"/>vation,</hi> as a continual Creation; ſince
+GOD, by his Power, Goodneſs and Wiſ<g ref="char:EOLhyphen"/>dom, communicates Life to us every
+mo<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>THERE is not one inſtant of our Life, but GOD delivers us
+from infinite Evils, which, but for his Preventing Han, dwould moſt certainly
+deſtroy us; who to this is pleas'd to ſuperadd ſuch plenty of
+Bleſſings, as to make our Life. moſt ſweet and comfortable.</p>
+                     <p>HOW thankful therefore ought we to be? How great
+acknowledgments ought we to return to GOD, for theſe ſignal Favours to us?
+Shall not we therefore, as often as we reſpire, meditate on Him, who ſo
+conſtantly thinks of us?</p>
+                  </div>
+                  <div n="6" type="maxim">
+                     <pb n="69" facs="tcp:99726:41"/>
+                     <head>
+                        <hi>MAXIM VI.</hi> That we ſhould continually reflect
+up<g ref="char:EOLhyphen"/>on the Great Work of our Redemp<g ref="char:EOLhyphen"/>tion.</head>
+                     <p>HE who made, and does ſtill preſerve me, is the ſame,
+who has redeemed me. It is neither Man, nor Angel, but the Only Son of GOD,
+JESUS CHRIST Himſelf, who was willing to become my Surety, and appeaſe the
+Wrath of his Almighty Father, in dying for me.</p>
+                     <p>WHAT Outrages, what Torments, did not he ſuffer! He was
+crucified like a Slave, and underwent a Puniſhment, that GOD Himſelf had
+call'd a Curſe. Not only the World and Hell inſulted over Him, but He
+complain'd of his being for<g ref="char:EOLhyphen"/>ſaken even of his Father.</p>
+                     <p>O WHAT a ſtrange and horrible thing is Sin, that JESUS
+CHRIST muſt ſhed his Blood to deliver me from it! What Profaneneſs! What
+Sacriledge is it, to trample under Foot that Precious Blood, with which we are
+redeem'd! How helliſhly wicked muſt we be, not to love a SAVIOUR, who ſo
+dearly lov'd us!</p>
+                  </div>
+                  <div n="7" type="maxim">
+                     <pb n="70" facs="tcp:99726:42"/>
+                     <head>
+                        <hi>MAXIM VII.</hi> That we muſt follow the Divine
+Call.</head>
+                     <p>'TIS GOD draws us, that we may come to Him; without which we
+could not have the leaſt thought or deſire thitherward. We muſt obey his
+Voice, while He is pleas'd to direct it to us; For elſe, Life and Redemption
+procur'd by Him, will be unprofitable to us.</p>
+                     <p>HOW many Heathens have been without the Advantages we injoy!
+How many Infidels and Idolaters have been de<g ref="char:EOLhyphen"/>priv'd of this Grace of Vocation,
+with<g ref="char:EOLhyphen"/>out which a Man can never be converted! Shall we make them riſe up in
+Judgment againſt us?</p>
+                     <p>O THE wonderful Patience and For<g ref="char:EOLhyphen"/>bearance of GOD! who after a
+thou<g ref="char:EOLhyphen"/>ſand Contempts of his Grace, receives us to Repentance; After many
+obſtinate re<g ref="char:EOLhyphen"/>ſiſtings of the Heavenly Inſpirations of his Spirit; is
+yet pleas'd to continue his Gra<g ref="char:EOLhyphen"/>cious Call to us! Follow we then his Voice,
+which invites us to the Supremeſt Good.</p>
+                  </div>
+                  <div n="8" type="maxim">
+                     <pb n="71" facs="tcp:99726:42"/>
+                     <head>
+                        <hi>MAXIM VIII.</hi> That we muſt Study God's Conduct
+to<g ref="char:EOLhyphen"/>wards us.</head>
+                     <p>WE loſe the Benefit of the Mercies and Chaſtiſements,
+GOD di<g ref="char:EOLhyphen"/>ſpenſes to us, while we are unacquainted with the Conduct He
+obſerves towards his Children. Through our ignorance of this, we afflict our
+ſelves with that which is Matter of Comfort, and make merry in the midſt of
+Temptations.</p>
+                     <p>HAD <hi>Joſeph</hi> underſtood GOD'S Leading, he would
+have wept, when he found himſelf his Maſter's Favourite, and rejoyced, when
+the accuſation of his luſt<g ref="char:EOLhyphen"/>ful Miſtreſs caſt him into that Priſon,
+which advanc'd him to little leſs, than <hi>Pharaoh</hi>'s Throne.</p>
+                     <p>THE Devil prompts us to judge of GOD'S Conduct according to
+outward appearance. This is one of his moſt dan<g ref="char:EOLhyphen"/>gerous Deluſions. It is
+therefore our Du<g ref="char:EOLhyphen"/>ty to meditate upon thoſe <hi>Maxims,</hi> GOD has revealed
+to us, and upon the Examples of his Providence towards the Saints, who have
+been before us.</p>
+                  </div>
+                  <div n="9" type="maxim">
+                     <pb n="72" facs="tcp:99726:43"/>
+                     <head>
+                        <hi>MAXIM IX.</hi> That we ought daily to examine our
+Conſcience.</head>
+                     <p>NOT to reflect upon our Behaviour, is to live without
+<hi>Reaſon;</hi> and not to remind our ſelves, every day, of the State of
+our Hearts, is to live without <hi>Grace.</hi> We ought to take daily notice
+what good we have omitted, and what evil we have done.</p>
+                     <p>WE cannot be ſaved without the ſor<g ref="char:EOLhyphen"/>rows of Repentance,
+without a through reſolution to amend what's amiſs, and an anxious
+ſeeking after thoſe Remedies that can heal us. VVhich is not attaina<g ref="char:EOLhyphen"/>ble
+but by a conſtant Review of our Thoughts, Words and Actions.</p>
+                     <p>WE daily behold our ſelves in our Glaſs, and yet are
+careleſs of conſulting the Law of GOD. 'Tis to undervalue the Study of
+Perfection, thus to neglect our own Hearts, and bring our ſelves to that
+paſs; as not to pray any more out of a ſenſe of our needs, but out of
+meer Cuſtom.</p>
+                  </div>
+                  <div n="10" type="maxim">
+                     <pb n="73" facs="tcp:99726:43"/>
+                     <head>
+                        <hi>MAXIM X.</hi> That we ought to avoid too much
+Bu<g ref="char:EOLhyphen"/>ſineſs.</head>
+                     <p>A SOUL taken up with the Cares of Salvation, does not cumber
+her ſelf with the things of this preſent Life. The retirement (which ſhe
+conſecrates to to God, by devoting it to Pious Reflecti<g ref="char:EOLhyphen"/>ons) is much dearer
+to her, than all the Employments in the World.</p>
+                     <p>LET us remember the Parable of Our Lord, which aſſures us,
+that the Word falling into the Heart of a Man, diſtracted with worldly Cares,
+is like Seed that falls among Thorns, which growing up, choak it at laſt.</p>
+                     <p>MY GOD! How much more advanta<g ref="char:EOLhyphen"/>geous is it, by means of a calm
+and com<g ref="char:EOLhyphen"/>poſed temper of Mind, to reſemble that good Ground, which brings
+forth Thirty, Sixty, yea, even an Hundred Fold; than to have our Hearts crouded
+with a thou<g ref="char:EOLhyphen"/>ſand vain Solicitudes, how innocent ſo<g ref="char:EOLhyphen"/>ever they may appear to
+us!</p>
+                  </div>
+                  <div n="11" type="maxim">
+                     <pb n="74" facs="tcp:99726:44"/>
+                     <head>
+                        <hi>MAXIM XI.</hi> That we muſt often recollect our
+ſelves, to think of our Salvation.</head>
+                     <p>THE greateſt part of our Life is ſpent in a guilty kind of
+Slumber. Time flies away, and the Glaſs of Life ha<g ref="char:EOLhyphen"/>ſtens to wards Death. We
+come, we go, we talk and act; and this almoſt continu<g ref="char:EOLhyphen"/>ally, without having
+the leaſt regard to what concerns Salvation.</p>
+                     <p>IF we judge aright, we ſhall find, that either we do that
+which is altogether e<g ref="char:EOLhyphen"/>vil, or at leaſt, very remote from the Principal End of
+Life; or elſe we Squan<g ref="char:EOLhyphen"/>der our time in idleneſs, and do no<g ref="char:EOLhyphen"/>thing at all.
+Which neglect, though it be leaſt criminal, yet is not quite
+fault<g ref="char:EOLhyphen"/>leſs.</p>
+                     <p>WE can make no better uſe of our Life, than when by frequent
+retirement, we renew the Pious Reſolutions we have formerly taken. We muſt
+examine very narrowly, whether our Life and Actions are anſwerable to that
+Model we have ſet before us.</p>
+                  </div>
+                  <div n="12" type="maxim">
+                     <pb n="75" facs="tcp:99726:44"/>
+                     <head>
+                        <hi>MAXIM XII.</hi> That we ought carefully to conſider
+the Vanity of this Life.</head>
+                     <p>THERE is nothing more miſerable, than Life's inconſtancy.
+Its longeſt Date is but a Span. It is obnoxious to many thouſand accidents,
+that ſnatch it away, when we leaſt think on't. It is more brittle, than
+Glaſs; and at beſt but our way to Death,</p>
+                     <p>AND can we thus reflect upon the Vanity of this Life, and not
+be diſguſted? Can we help deſpiſing the pleaſures of it, and lifting
+our Hearts above Time, fix them on the Life Eternal?</p>
+                     <p>THE World paſſes away, and we in it: Its Deluſions, that
+have ſo often ſur<g ref="char:EOLhyphen"/>prized us, ſcatter and vaniſh, proporti<g ref="char:EOLhyphen"/>onably to the
+growth of our Experience. They only have attain'd a ſix'd and ſet<g ref="char:EOLhyphen"/>led
+State, who have reſign'd themſelves to <hi>GOD,</hi> and the Contemplation
+of Eternity.</p>
+                  </div>
+                  <div n="13" type="maxim">
+                     <pb n="76" facs="tcp:99726:45"/>
+                     <head>
+                        <hi>MAXIM XIII.</hi> That we ought frequently to think of
+Death.</head>
+                     <p>WE cannot avoid <hi>Death;</hi> But the time, place, manner,
+and cir<g ref="char:EOLhyphen"/>cumſtances of it, we know not. How great would be our Unhappineſs,
+ſhould it ſurprize us in Sin and Impenitence, and come to execute the
+dreadful Decree of our Everlaſting Damnation!</p>
+                     <p>THE very image of Death affrights us, though we ſuppoſe it
+afar off. What will it do, when it ſhall ſtare us in the Face, and ſet
+before our Eyes our great and innumerable Sins, in oppoſition to
+<hi>GOD'S</hi> Favours, and ſill our Souls with Remorſe and Terrour?</p>
+                     <p>
+                        <hi>GOD</hi> makes uſe of this Proſpect of the Grave to
+affright us to him. It a<g ref="char:EOLhyphen"/>wakens our Conſciences, fortifies our Faith, and
+animates our Hopes. But Good <hi>GOD!</hi> VVhat would become of us, ſhould
+we deſcend to Death without having once thought of, or conſider'd it, and
+without being made wiſer by the In<g ref="char:EOLhyphen"/>ſtructions it affords?</p>
+                  </div>
+                  <div n="14" type="maxim">
+                     <pb n="77" facs="tcp:99726:45"/>
+                     <head>
+                        <hi>MAXIM XIV.</hi> That we ought to conſider every Day,
+as if it were our laſt.</head>
+                     <p>JESUS CHRIST has commanded us, to watch conſtantly for his
+Com<g ref="char:EOLhyphen"/>ing to judge the World. <hi>GOD</hi> has left us uncertain of the Hour of
+our Death. What would not we wiſh we had done, if this very Day CHRIST
+ſhould come to Judgment, or Death ſnatch us away, and ſet us before GOD'S
+Tribunal?</p>
+                     <p>WE loſe opportunities of doing good, and embrace thoſe of
+doing ill; becauſe we think we are ſure to live long, and re<g ref="char:EOLhyphen"/>pent before
+Death ſurprizes us. Strange blind Security!</p>
+                     <p>I AM aſſur'd GOD will pardon me, if I truly repent before
+the Day of my Death; but ſhould be ſtark mad to think of delaying the Duty
+of Repentance, a Moment, ſince 'tis not impoſſible but that even that
+very Moment may be my laſt.</p>
+                  </div>
+                  <div n="15" type="maxim">
+                     <pb n="78" facs="tcp:99726:46"/>
+                     <head>
+                        <hi>MAXIM XV.</hi> That we ought continually to ſet the
+Judgment of God before our Eyes.</head>
+                     <p>HOW terrible will the <hi>Judgment</hi> of GOD be to the
+Wicked! CHRIST, whom they have outrageouſly abus'd, is to give Sentence;
+their own Conſciences to be Witneſs againſt them, and the De<g ref="char:EOLhyphen"/>vil waits
+for the word of Command to put it in Execution. No Grace now to be hoped for;
+no room left for Repentance.</p>
+                     <p>SECRET Thoughts, idle VVords, wavering Actions; All ſhall be
+brought forth to Judgment. GOD'S Aſſiſtance, Patience and Benefits will
+be our reproach. Sins committed, good Deeds omitted, Time loſt, and the like,
+will be puniſhed. Excuſes, Prayers, Tears; All theſe will avail nothing
+againſt the Juſtice of this Tribunal.</p>
+                     <p>OH! How much ought the dread of this Judgment to come, to
+poſſeſs our Minds! How can we ſleep in Sin quietly? Our Souls may each
+moment be cited be<g ref="char:EOLhyphen"/>fore the Throne of GOD, there to be judg'd and ſentenc'd
+to Eternal Pains.</p>
+                  </div>
+                  <div n="16" type="maxim">
+                     <pb n="79" facs="tcp:99726:46"/>
+                     <head>
+                        <hi>MAXIM XVI.</hi> That the Conſideration of the
+Torments of Hell ought to affright us to Hea<g ref="char:EOLhyphen"/>ven.</head>
+                     <p>IF the Divine Favours prove too weak, to overcome our
+Obſtinacy; yet (at leaſt) let the pains of Hell, terrify us into Endeavours
+to prevent them.</p>
+                     <p>LET our minds viſit this Abyſs of Miſery, where the
+Sinner ſuffers, in eve<g ref="char:EOLhyphen"/>ry Senſe, Torments proportioned to his Crimes. He
+has loſt GOD for ever, and is given up to Eternal Remorſe of
+Con<g ref="char:EOLhyphen"/>ſcience.</p>
+                     <p>Priſons, Dungeons, Racks have their Terrours. But what are
+theſe to Hell? Eternal Darkneſs, unquenchable Fire, the preſence of
+Devils, and the Damned; Lamentations, Howlings, Blaſphemies, Deſpair.
+Theſe are but a rude Draught of that Region of Anguiſh.</p>
+                  </div>
+                  <div n="17" type="maxim">
+                     <pb n="80" facs="tcp:99726:47"/>
+                     <head>
+                        <hi>MAXIM XVII.</hi> That the Glory of Heaven ought
+power<g ref="char:EOLhyphen"/>fully to incite our Piety.</head>
+                     <p>HEAVEN is the Lot of the Righte<g ref="char:EOLhyphen"/>ous; where the abſence of
+all Evil, an unſpeakable fulneſs of Bleſſings, both for Body and Soul,
+and a perfect fruiti<g ref="char:EOLhyphen"/>on of GOD, ſhall make up our Happineſs. JESUS CHRIST,
+the Bridegroom, will there give Conſummation to our Joys.</p>
+                     <p>NO more Temptations, no more Sins, no more Sufferings, no more
+Fears; But Light in the Mind, Comforts in the Heart, Peace in the Conſcience,
+a perfect Union of the Faithful in giving Eternal Thanks to God, in the
+enjoyment of Felicity that ſhall have no end.</p>
+                     <p>VVhat ought not we to do; what Mi<g ref="char:EOLhyphen"/>ſeries ſhould not we be
+content to ſuffer, to ſecure the hope of this Glory God has promis'd to us?
+What Terrour ought to ſeize us, when we reflect upon our Sins, which (if not
+repented of) will deprive us of it for ever?</p>
+                  </div>
+                  <div n="18" type="maxim">
+                     <pb n="81" facs="tcp:99726:47"/>
+                     <head>
+                        <hi>MAXIM XVIII.</hi> That we are always to ſtand in a
+Reli<g ref="char:EOLhyphen"/>gious Fear.</head>
+                     <p>CHRIST having told his Diſciples, that one of them would
+betray him, they all trembled at the horror of this Crime, though there was but
+one, that was to commit it.</p>
+                     <p>Let us always be watchful againſt the inconſtancy of our
+Nature. Who knows whether the Eye of GOD does not diſ<g ref="char:EOLhyphen"/>cover that in our
+Hearts, which is yet unknown to us? The Example of the <hi>Saints,</hi> ought
+to inſpire us with a Religi<g ref="char:EOLhyphen"/>ous Fear.</p>
+                     <p>THE Fall of St. <hi>Peter</hi> was expiated by Tears of
+Repentance. But how can he who conſiders on his failing, truſt to his own
+Strength? The Looks of his Maſter infus'd the Motives to his Remorſe. But
+CHRIST does not always afford his Gracious Countenance to thoſe, who
+de<g ref="char:EOLhyphen"/>ſert and deny him.</p>
+                  </div>
+                  <div n="19" type="maxim">
+                     <pb n="82" facs="tcp:99726:48"/>
+                     <head>
+                        <hi>MAXIM XIX.</hi> That Sin is more to be fear'd than
+Death.</head>
+                     <p>SIN is Treaſon againſt the King of Heaven: 'Tis copying
+from the fal<g ref="char:EOLhyphen"/>len Angels. It is the only Object of <hi>GOD'S</hi> Averſion. He
+puniſh'd it without remedy, in thoſe Curſed Spirits. And who can caſt
+up the Accounts of them, Sin ſends to Eternal Deſtruction?</p>
+                     <p>IF Death could be ſeparated from the Curſe of GOD; If it
+did conſiſt in a to<g ref="char:EOLhyphen"/>tal Annihilation; Wicked Men ought to wiſh for it, as
+a Cure of the Reproaches and Diſquiets of their own Conſciences. But alas!
+it is quite another thing.</p>
+                     <p>LET us therefore fear Sin more than Death it ſelf; Or
+rather; Let the Wa<g ref="char:EOLhyphen"/>ters of the Deluge, the Flames of <hi>Sodom,</hi> and all
+other Exemplary Judgments upon harden'd Sinners, diſplay to us the hor<g ref="char:EOLhyphen"/>rors
+of Sin, and the Everlaſting Puniſh<g ref="char:EOLhyphen"/>ment reſerv'd for it.</p>
+                  </div>
+                  <div n="20" type="maxim">
+                     <pb n="83" facs="tcp:99726:48"/>
+                     <head>
+                        <hi>MAXIM XX.</hi> That we ought to fear GOD more than
+Men.</head>
+                     <p>WHAT blindneſs is it to fear Men, more than GOD! We bear
+with patience, the wrongs done us by our Supe<g ref="char:EOLhyphen"/>riours, leaſt our Complaints
+ſhould en<g ref="char:EOLhyphen"/>creaſe our Oppreſſion. But we too often offend the Weak,
+notwithſtanding CHRIST'S Command to the contrary.</p>
+                     <p>IT's eaſier to reſtrain our Anger a<g ref="char:EOLhyphen"/>gainſt our
+Inferiours (as CHRIST re<g ref="char:EOLhyphen"/>quires) than to endure injuries from Great Men. Why
+ſhould we then kindle a Fire, which CHRIST would have ex<g ref="char:EOLhyphen"/>tinguiſhed, when
+the only fear of Men, makes us careful to extinguiſh the Fire they kindle in
+us?</p>
+                     <p>LET us therefore <hi>judge righteouſly;</hi> be aſham'd of
+our imperfections, and bluſh at our doing leſs for the fear of the LORD
+(that LORD we are ſo much bound to love) than for the fear of Men, who have
+to Title like his, either to our fear or love.</p>
+                  </div>
+                  <div n="21" type="maxim">
+                     <pb n="84" facs="tcp:99726:49"/>
+                     <head>
+                        <hi>MAXIM XXI</hi> That the whole Courſe of our Life
+ought to be a continual Study of Mortification.</head>
+                     <p>SO horribly has Sin corrupted our Na<g ref="char:EOLhyphen"/>ture, that unleſs we
+take great care continually to reſtrain our inclinations to Evil, we ſhall
+unavoidably fall into all manner of Vices.</p>
+                     <p>UNLESS the Fleſh be mortify'd, it will rebel againſt the
+Spirit. Unleſs we reſiſt our Paſſions, they will prevail a<g ref="char:EOLhyphen"/>gainſt
+the Light of our Reaſon, and our Reaſon, unleſs enlight'ned, will
+oppoſe GOD'S Law and our Duty.</p>
+                     <p>LET us beware of thoſe things that flatter our Senſes, and
+feed our Paſſions. Let us not ſuffer our Thoughts to wander, but govern
+our Hearts and Minds, by bringing them into a due Subjection to Reaſon and
+the Will of GOD.</p>
+                  </div>
+                  <div n="22" type="maxim">
+                     <pb n="85" facs="tcp:99726:49"/>
+                     <head>
+                        <hi>MAXIM XXII</hi> That we ought continually to ſtrive
+a<g ref="char:EOLhyphen"/>gainſt the <g ref="char:V">Ʋ</g>nrulineſs of Self-Love.</head>
+                     <p>THE Prevalence of Self-love is the Source of Sin. We all
+naturally aſpire to Happineſs; this is innocent; But we place Felicity
+either in Riches, Honours or Pleaſures; which is our mi<g ref="char:EOLhyphen"/>ſtake.</p>
+                     <p>GOD does not forbid us to love our ſelves; for Self-love is
+neceſſary to our Preſervation; But he charges us, not to love our
+ſelves with a blind and unac<g ref="char:EOLhyphen"/>countable Love; that is, to love our Bo<g ref="char:EOLhyphen"/>dy
+better than our Soul; this Temporal, more than Eternal Life.</p>
+                     <p>LET'S labour to rectify our Paſſions, by propoſing to
+them due Objects, things truly Good, Solid Honours, and Riches that take not to
+themſelves Wings. Let us believe GOD'S Deciſions concerning theſe, rather
+than the Suggeſtions of Sen<g ref="char:EOLhyphen"/>ſuality.</p>
+                  </div>
+                  <div n="23" type="maxim">
+                     <pb n="86" facs="tcp:99726:50"/>
+                     <head>
+                        <hi>MAXIM XXIII</hi> That we ought to reſiſt our
+Paſſions.</head>
+                     <p>THIS Life is a Scene of Combate, where though we are not
+always fighting with our Enemies, or wild Beaſts, yet muſt ever be
+contending againſt our Paſſions, that endeavour to uſurp the Do<g ref="char:EOLhyphen"/>minion
+of our Hearts.</p>
+                     <p>IF we ſuffer any one of theſe to be the Miſtreſs of
+our Soul, then Farewell Reaſon and Tranquillity. Then will both our Soul and
+Body be expos'd to inevi<g ref="char:EOLhyphen"/>table Dangers: An Eternal Death to both, muſt be the
+portion of ſuch, as ſhall be ſubjected to this Tyranny.</p>
+                     <p>BUT while we courageouſly oppoſe their aſſaults, we
+ſecure our quiet, and are in the ſure way to Glory, whereof we have
+foretaſts even in this Life, at leaſt a certain Hope ſhall crown the
+Conflict.</p>
+                  </div>
+                  <div n="24" type="maxim">
+                     <pb n="87" facs="tcp:99726:50"/>
+                     <head>
+                        <hi>MAXIM XXIV.</hi> That we ought to bridle that Pride,
+which is apt to reign in us.</head>
+                     <p>THERE is nothing more difficult, than the freeing our ſelves
+from Pride. Men are naturally in love with their own Worth, and proud of what
+they poſſeſs. They love to be eſteem'd of others, delight to make a
+ſhew of their Perfections. In a word, their ambition is to be thought and
+conſider'd as wiſe, skilful and honeſt Men.</p>
+                     <p>BUT nothing is more neceſſary, than to oppoſe a
+Paſſion, which is the Mother of Boaſting, Vain-Glory, Obſtinacy,
+Pre<g ref="char:EOLhyphen"/>ſumption and Hypocriſy. What ſafety can theſe hope for, when GOD
+has de<g ref="char:EOLhyphen"/>clar'd, he reſiſts the Proud, and gives Grace to the humble?</p>
+                     <p>LET us conſider the Cauſe of this Paſ<g ref="char:EOLhyphen"/>ſion. The
+<hi>Devil,</hi> who is King of the Children of Pride, has infuſed it into us.
+Its Effects here below, fill Human Socie<g ref="char:EOLhyphen"/>ties with Troubles and Debate; and its
+Eternal Effects hereafter, are the uniting us to him, and ſeparating us from
+our LORD, who is Humility it ſelf.</p>
+                  </div>
+                  <div n="25" type="maxim">
+                     <pb n="88" facs="tcp:99726:51"/>
+                     <head>
+                        <hi>MAXIM XXV.</hi> That we ought to ſuppreſs all
+deſires of becoming great.</head>
+                     <p>EVERY Condition has its Comforts and Diſtaſts. The
+reaſon why we deſire to riſe in the World, is, becauſe we have no mind
+to know this Truth, <hi>viz.</hi> That no State is happy, but that of the
+Virtuous, be their Condition what it will.</p>
+                     <p>LET us not think ſo much of riſing and becoming great, as
+of collecting Comfort from a troubleſome Life, and extracting Pleaſure from
+Calamity. Let us free our ſelves from diſquiets; the Place we may aim at,
+is no better than that we are in.</p>
+                     <p>GOD has appointed every one of us his Place and Bounds.
+Theſe he has de<g ref="char:EOLhyphen"/>termin'd for us by our Birth, Wealth and Capacity: Let us not
+preſume to quit or go beyond them; ſince we cannot do it, without violating
+the Decrees of his <hi>Pro<g ref="char:EOLhyphen"/>vidence,</hi> and expoſing our ſelves to
+mani<g ref="char:EOLhyphen"/>fold Temptations.</p>
+                  </div>
+                  <div n="26" type="maxim">
+                     <pb n="89" facs="tcp:99726:51"/>
+                     <head>
+                        <hi>MAXIM XXVI.</hi> That Humility ought to be the Badge of
+our Profeſſion.</head>
+                     <p>THERE is no true <hi>Chriſtianity</hi> with<g ref="char:EOLhyphen"/>out
+<hi>Humility;</hi> It was this <hi>CHRIST</hi> taught us, by his <hi>Life</hi>
+and <hi>Doctrine.</hi> How dare we aſſume the Name of
+<hi>Chriſtians,</hi> while we neglect to practiſe his
+<hi>Precepts?</hi>
+                     </p>
+                     <p>WE ought therefore ingenuouſly to acknowledge our
+weakneſs, and inſtead of making a ſhew of our Parts, or other Advantages,
+and ſeeking the praiſe of Men, embrace all occaſions, which may abate and
+mortify our Pride.</p>
+                     <p>TO do this, we need no more, than reflect on what we are. We
+come from nothing, and are Sinners into the bargain; The Advantages we
+poſſeſs, are the fruit of the Divine Bounty, and we muſt one day give
+an account for them.</p>
+                  </div>
+                  <div n="27" type="maxim">
+                     <pb n="90" facs="tcp:99726:52"/>
+                     <head>
+                        <hi>MAXIM XXVII</hi> That we ought to beware of
+Covetouſ<g ref="char:EOLhyphen"/>neſs.</head>
+                     <p>HOW properly is <hi>Covetouſneſs</hi> call'd by St.
+<hi>Paul,</hi> the <hi>Root of all Evil?</hi> Love of Riches makes us deal
+unjuſtly with our Neighbour; It ſtifles all ſenſe of natural Affection,
+and changes an Apoſtle of <hi>CHRIST</hi> into a Miniſter of the
+<hi>Devil.</hi>
+                     </p>
+                     <p>A SOUL that is eagerly inclin'd to the love of Riches,
+expoſes it ſelf to a certain danger for an uncertain gain; it fears not
+Eternal Deſtruction, ſo it may but ſatisfy its greedineſs. Behold here
+the Quinteſſence of Blindneſs and Folly.</p>
+                     <p>LET us dread to be poſſeſs'd of ſo vile a Paſſion,
+which will not ſtick to prompt us to betray our LORD him<g ref="char:EOLhyphen"/>ſelf.
+<hi>Judas</hi> did not betray Him, for fear of Perſecution, but through love
+of Mony; and the ſame will make <hi>CHRIST</hi> to deſtroy us, without
+remedy, for ha<g ref="char:EOLhyphen"/>ving ſo ſottiſhly ſought for Happineſs, in heaping up
+a little ſhining Duſt.</p>
+                  </div>
+                  <div n="28" type="maxim">
+                     <pb n="91" facs="tcp:99726:52"/>
+                     <head>
+                        <hi>MAXIM XXVIII.</hi> That we ought to reſtrain the
+motions of Anger.</head>
+                     <p>ANGER disfigures a Man, by de<g ref="char:EOLhyphen"/>throning his Reaſon. It is the
+riſe of Quarrels, Curſings and Blaſphemies. It begets Hatred and Revenge,
+without conſidering Reaſon, Juſtice or the Di<g ref="char:EOLhyphen"/>vine Laws.</p>
+                     <p>HOW dangerous is it to give up our ſelves to this
+Paſſion, and follow the mo<g ref="char:EOLhyphen"/>tions of it! VVhat an horrible thing to be
+tranſported upon every ſlight occaſi<g ref="char:EOLhyphen"/>on, or charge GOD with our
+diſaſters, and murmur againſt him, or brandiſh our fury againſt our
+Neighbour?</p>
+                     <p>LET us betimes reſiſt the Motions of Anger. Let us learn
+to look upon our Miſeries as Chaſtiſements; and upon In<g ref="char:EOLhyphen"/>juries, as Trials
+GOD lays upon us. If our Heart at any time, riſes in ſpight of us, let us
+preſently recall our ſelves, and not ſuffer the Sun (according to the Law
+of <hi>CHRIST</hi>) to go down upon our Wrath.</p>
+                  </div>
+                  <div n="29" type="maxim">
+                     <pb n="92" facs="tcp:99726:53"/>
+                     <head>
+                        <hi>MAXIM XXIX.</hi> That we muſt root Envy out of our
+Hearts.</head>
+                     <p>WHAT greater Madneſs, than to be griev'd at our Neighbour's
+Wel<g ref="char:EOLhyphen"/>fare, as if his Happineſs muſt needs make us Miſerable! VVhat
+Injuſtice to rejoyce at his Misfortunes, and inſult over him, or take
+delight in his being caſt down! This Paſſion cannot poſſeſs a
+Heart, that is not given up to the Devil.</p>
+                     <p>IF we will not abhor Envy, becauſe it conſumes the
+Envious, and tears him inwardly; or for its delighting in, and feeding it
+ſelf with Filth and Ordure; Let us at leaſt hate it, as being the Source of
+that deteſtable Crime the <hi>Jews</hi> commi<g ref="char:EOLhyphen"/>ted in delivering up Our LORD
+to Death.</p>
+                     <p>O LET us ſtrangle this Monſter, and acquieſce in
+<hi>GOD'S</hi> VVay of diſpenſing his Favours. Let us freely impart the
+Proſperity he has given us, or beg of Him to ſupply our want of power, by
+granting our deſires for the good of our Neighbour.</p>
+                  </div>
+                  <div n="30" type="maxim">
+                     <pb n="93" facs="tcp:99726:53"/>
+                     <head>
+                        <hi>MAXIM XXX.</hi> That we ought to bear Injuries with
+Pa<g ref="char:EOLhyphen"/>tience.</head>
+                     <p>
+                        <hi>SOCRATES</hi> being ſtruck, would not revenge himſelf.
+This Exam<g ref="char:EOLhyphen"/>ple of Patience, ſeveral Heathens have imitated; Yea, they have
+made it their Endeavour to conquer the malice of their Enemies with
+kindneſs.</p>
+                     <p>ALAS! How many <hi>Chriſtians</hi> may juſtly fear, that
+the Benignity of a Hea<g ref="char:EOLhyphen"/>then will aggravate their Condemnation? VVe are
+<hi>Chriſtians,</hi> and as ſuch ſhould own this for a Maxim, <hi>That he
+who does the injury, is the Wretch, not he who ſuffers by it.</hi> VVe are
+the Diſciples of GOD, who forbids us all Self-revenge; and yet we are ready
+every minute to thunder out our reſentments againſt others.</p>
+                     <p>LET us in a word wiſely conſider, that we are Criminals,
+who ſue for Pardon; that we are at the foot of the Throne, and under the Eyes
+of a GOD, who has proclaimed to us, that <hi>Vengeance</hi> is his. Let us not
+ſet light by his Preſence, his Voice and Dreadful Judgments.</p>
+                  </div>
+                  <div n="31" type="maxim">
+                     <pb n="94" facs="tcp:99726:54"/>
+                     <head>
+                        <hi>MAXIM XXXI.</hi> That we muſt abhor all
+Impurity.</head>
+                     <p>VVE cannot juſtly pretend to the Glory of Angels, unleſs
+we imitate their Purity. To follow the pleaſures of the Fleſh, hunt after
+its Al<g ref="char:EOLhyphen"/>lurements, and cheriſh its filthy Deluſi<g ref="char:EOLhyphen"/>ons, is to walk in the Path
+of Damnati<g ref="char:EOLhyphen"/>on.</p>
+                     <p>CAN we be convinc'd of theſe Truths, without being in love
+with <hi>Chaſtity;</hi> with<g ref="char:EOLhyphen"/>out avoiding all dangerous occaſions, as
+inticing Company and guilty Sloth, and without arming our ſelves againſt
+the Fleſh, by Faſting and Mortification?</p>
+                     <p>LET us make a Covenant with our Eyes, that they never open a
+Door to any unclean Thoughts; and if at any time they break this Covenant, let
+our Heart, being animated by the Croſs of JESUS, ſtifle all thoſe
+Thoughts in their Birth, which might lead us to Sin.</p>
+                  </div>
+                  <div n="32" type="maxim">
+                     <pb n="95" facs="tcp:99726:54"/>
+                     <head>
+                        <hi>MAXIM XXXII.</hi> That we ought to beware of
+Detraction.</head>
+                     <p>DETRACTION is the Character of Malignity. VVe cannot revile
+another, without hurting our ſelves, and them that take delight to hear us.
+VVe make them Complices in our Sin; and by inſpiring them with the ſame
+Hatred we have for our Neighbour, rob them of their Reſt.</p>
+                     <p>VVE juſtly hold it ſinful to ſtain our Hands in our
+Brother's Blood; and can we think it innocent to dip our Tongue in it by
+Calumny, by publiſhing his faults, by rendring his Principles doubtful, or
+de<g ref="char:EOLhyphen"/>crying his Virtues?</p>
+                     <p>
+                        <hi>DAVID</hi> declares he could not abide Slanderers in
+hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Court. Can we ima<g ref="char:EOLhyphen"/>gine
+CHRIST will admit them into Heaven, who blaſt their Brothers Repu<g ref="char:EOLhyphen"/>tation, and
+take delight in this kind of Cruelty?</p>
+                  </div>
+                  <div n="33" type="maxim">
+                     <pb n="96" facs="tcp:99726:55"/>
+                     <head>
+                        <hi>MAXIM XXXIII.</hi> That we ought never to believe
+Calum<g ref="char:EOLhyphen"/>ny, to the prejudice of Truth.</head>
+                     <p>
+                        <hi>PILATE</hi> perceiving the malice of the <hi>Jews,</hi>
+and the Innocence of CHRIST, would fain have cleared Him; but was vanquiſhed
+by a Motive of Carnal Policy. He no ſooner heard them cry out [<hi>If thou
+releaſe this Man, thou art not</hi> Caeſar's <hi>Friend</hi>] but his
+pur<g ref="char:EOLhyphen"/>poſe of ſaving Him vaniſh'd.</p>
+                     <p>O INJUSTICE! VVas CHRIST ever a Head of Rebels? Did He at any
+time, provide Arms and Ammunition, or levy Souldiers? Did not He ſubmit
+him<g ref="char:EOLhyphen"/>ſelf to the <hi>Roman</hi> Laws, pay Tribute and openly aſſert
+<hi>Caeſar's</hi> Right?</p>
+                     <p>TO accuſe CHRIST of Sedition, was to call depth of Poverty,
+Pride and Ambition; Obedience, Rebellion, and Humility, Vain-Glory. But
+Pretences are never wanting, and depraved Nature lends a more willing Ear to
+<hi>Calumny,</hi> than <hi>Truth.</hi>
+                     </p>
+                  </div>
+                  <div n="34" type="maxim">
+                     <pb n="97" facs="tcp:99726:55"/>
+                     <head>
+                        <hi>MAXIM XXXIV.</hi> That we ought to weigh the
+Conſequences both of Vice and Virtue.</head>
+                     <p>VIRTUE is laid aſide, when the difficulties of it only are
+conſider'd, and <hi>Vice</hi> embrac'd when the Pleaſures it yields are
+ſet before us. But a <hi>Chriſtian</hi> ought to make very different
+Reflections.</p>
+                     <p>VIRTUE bears an Impreſſion of GOD, and <hi>Vice</hi> is
+the Fruit of the <hi>De<g ref="char:EOLhyphen"/>vil's</hi> Suggeſtions. The former fills the Soul
+with Tranquillity, by begetting in it the Love of GOD and <hi>Men;</hi> And the
+latter Galls the Conſcience with a thou<g ref="char:EOLhyphen"/>ſand Checks, and brings the
+Offender into contempt both with GOD and Men.</p>
+                     <p>BUT above all, a good Man expects with joy, the Glory of
+Heaven, which he is to poſſeſs; whereas the Wicked are continually rack'd
+with the fears of fu<g ref="char:EOLhyphen"/>ture Torments, which GOD has ap<g ref="char:EOLhyphen"/>pointed to be their
+portion for ever. Who after theſe Reflections, can remain doubt<g ref="char:EOLhyphen"/>ful where to
+chooſe?</p>
+                  </div>
+                  <div n="35" type="maxim">
+                     <pb n="98" facs="tcp:99726:56"/>
+                     <head>
+                        <hi>MAXIM XXXV.</hi> That we ought to make a careful
+Scru<g ref="char:EOLhyphen"/>tiny into our Defects, in order to our Amendment.</head>
+                     <p>RELIGION invites us to the Study of Perfection; It ſets
+before us GOD and CHRIST for our <hi>Pattern;</hi> It furniſhes us with
+infinite Motives to ingage us to it, and gives us to under<g ref="char:EOLhyphen"/>ſtand, that our
+<hi>Happineſs</hi> conſiſts in this <hi>Perfection.</hi> How is it then
+that we labour not after it?</p>
+                     <p>WE read, ſpeak, write, diſcourſe it morally, and talk of
+our Paſſions and their Remedies; And yet continue in the ſame State,
+ſtill have the ſame Vices and Inclinations; And all is, becauſe we do not
+apply our ſelves to a through-ſearch of our Hearts.</p>
+                     <p>OUR Faults can never be amended, unleſs they be known; nor
+known, with<g ref="char:EOLhyphen"/>out enquiry. The Heart, which is ſo in<g ref="char:EOLhyphen"/>duſtrious in ſearch
+after the Frailties of others, to upbraid them therewith, would be better
+employ'd, in examining and ap<g ref="char:EOLhyphen"/>plying <pb n="99" facs="tcp:99726:56"/>Remedies to its own.
+This is a chief Ingredient towards the attainment of Perfection.</p>
+                  </div>
+                  <div n="36" type="maxim">
+                     <head>
+                        <hi>MAXIM XXXVI.</hi> That we ought not to make Cuſtom,
+or Example, a Plea for our Faults.</head>
+                     <p>THOUGH <hi>Chriſtianity</hi> does not ob<g ref="char:EOLhyphen"/>lige us to ſhun
+<hi>Human Society,</hi> yet its chief aim is, to inculcate to us, that the
+<hi>World</hi> is plung'd in Sin and Licenti<g ref="char:EOLhyphen"/>ouſneſs; and therefore that we
+ought not to imitate its corrupt Manners.</p>
+                     <p>WORLDLY Men find delight in thoſe actions that offend GOD.
+They provoke one another, by their Examples, to violate the Divine Laws,
+without re<g ref="char:EOLhyphen"/>gret or reſtraint. But we muſt reject their impious Maxims, that
+we may follow the Law of GOD.</p>
+                     <p>WHAT folly then is it to make theſe our Patterns? Do we
+think that the pre<g ref="char:EOLhyphen"/>ſcription of their Examples and Cuſtoms, can over-rule
+the Divine Right and Au<g ref="char:EOLhyphen"/>thority over us?</p>
+                  </div>
+                  <div n="37" type="maxim">
+                     <pb n="100" facs="tcp:99726:57"/>
+                     <head>
+                        <hi>MAXIM XXXVII.</hi> That we muſt avoid Relapſes into
+Sin.</head>
+                     <p>WHAT miſerable Wretches are we, to condemn our Repentance,
+and return to the Way of Perdition, whence GOD by his Grace has recalled us!
+What elſe is this, but to precipitate our ſelves into remedileſs Woes, by
+a pre<g ref="char:EOLhyphen"/>ſumptuous contempt of GOD'S Favours, and our own Salvation?</p>
+                     <p>LET us therefore retain in our Hearts a true ſorrow for
+having offended the DIVINE MAJESTY, be afraid of the Actions that firſt
+prompted us to ſin, and careful to make uſe of thoſe <hi>Re<g ref="char:EOLhyphen"/>medies
+GOD</hi> has provided for us, to for<g ref="char:EOLhyphen"/>ward and perfect our <hi>Cure.</hi>
+                     </p>
+                     <p>IS the Health of the <hi>Soul</hi> of leſs con<g ref="char:EOLhyphen"/>cern to us,
+than that of the <hi>Body?</hi> Or are the Eternal pains, which GOD will
+inflict upon them, who ſuffer them<g ref="char:EOLhyphen"/>ſelves to be carry'd away with the
+Vio<g ref="char:EOLhyphen"/>lence of their Paſſions, incapable to af<g ref="char:EOLhyphen"/>fright us to Him?</p>
+                  </div>
+                  <div n="38" type="maxim">
+                     <pb n="101" facs="tcp:99726:57"/>
+                     <head>
+                        <hi>MAXIM XXXVIII.</hi> That we muſt not abuſe the
+Long-Suf<g ref="char:EOLhyphen"/>fering of God.</head>
+                     <p>STRANGE and ſurprizing is the Corruption of our Nature!
+GOD'S <hi>Patience,</hi> which ſo meekly invites us to Repentance, ſerves
+but to harden us in our wicked Ways; The greater his <hi>Cle<g ref="char:EOLhyphen"/>mency</hi> is
+towards <hi>us,</hi> the more we multi<g ref="char:EOLhyphen"/>ply our Tranſgreſſions againſt
+Him.</p>
+                     <p>WHILE we cannot be ignorant, that his Patience admits of
+Bounds, and that the End of his Mercy is the Beginning of an inexorable
+Severity. We heap up to our ſelves <hi>a Treaſure of Wrath,</hi> in
+refuſing to comply with the Gracious Invitations of <hi>DIVINE LOVE.</hi>
+                     </p>
+                     <p>WHEN therefore we reflect upon his <hi>Forbearance</hi>
+towards us, while we were diſobedient, let us, by no means, thence in<g ref="char:EOLhyphen"/>fer,
+that we may ſtill continue to abuſe it; but remember, that <hi>Patience
+provok'd turns into Fury.</hi>
+                     </p>
+                  </div>
+                  <div n="39" type="maxim">
+                     <pb n="102" facs="tcp:99726:58"/>
+                     <head>
+                        <hi>MAXIM XXXIX.</hi> That we muſt not be aſhamed of
+God<g ref="char:EOLhyphen"/>lineſs.</head>
+                     <p>THE moſt terrible Temptation we are lyable to, is to ſee
+the Modiſh Men of the Age, call the <hi>Fear</hi> of <hi>GOD
+Superſtition,</hi> and <hi>Devotion Hypocriſy.</hi> They endeavour to
+perſwade us, that none but baſe and abject Minds are capable of be<g ref="char:EOLhyphen"/>ing
+beſotted with ſuch <hi>Chymaera</hi>'s.</p>
+                     <p>HAD Worldly Men a Heaven to re<g ref="char:EOLhyphen"/>ward our complying with their
+Opinions, and a Hell to avenge the Contempt of their Maxims, it were worth our
+At<g ref="char:EOLhyphen"/>tention.</p>
+                     <p>BUT alas! What Fools are we? The reſpect we have for them,
+proves fa<g ref="char:EOLhyphen"/>tal to us. It is madneſs, not to be a<g ref="char:EOLhyphen"/>ſham'd of imitating their
+Crimes, and to bluſh when we tranſgreſs their Rules, in purſuance of
+our Duty.</p>
+                  </div>
+                  <div n="40" type="maxim">
+                     <pb n="103" facs="tcp:99726:58"/>
+                     <head>
+                        <hi>MAXIM XL.</hi> That a faint and languiſhing
+<hi>Piety</hi> is a miſerable State.</head>
+                     <p>WHAT do we pretend by our re<g ref="char:EOLhyphen"/>miſneſs, and fainting in the
+Way of <hi>Godlineſs?</hi> Is not <hi>GOD</hi> Worthy to be belov'd, and
+ſerv'd with our beſt Zeal? Or what Comforts can we hope to reap from cold
+Devotion?</p>
+                     <p>TO eat at CHRIST'S Table, be in his Service, and at the ſame
+time hide the <hi>Talent</hi> he has intruſted us with, and give up our
+ſelves to ſloath and negli<g ref="char:EOLhyphen"/>gence; What is this, but a Contempt of his
+Grace, and a Provocation for his with drawing it?</p>
+                     <p>THOUGH GOD may ſeem to bear with thoſe, who are without
+any im<g ref="char:EOLhyphen"/>preſſion at all of his <hi>Grace;</hi> yet certain it is, that He
+cannot endure the <hi>Luke<g ref="char:EOLhyphen"/>warm.</hi> The unconcern'dneſs theſe have for
+Him, forcibly provokes his Averſion. He that loves truly, looks upon
+<hi>Indiffe<g ref="char:EOLhyphen"/>rence</hi> and <hi>Lukewarmneſs,</hi> as High Treaſon againſt
+<hi>Love.</hi>
+                     </p>
+                  </div>
+                  <div n="41" type="maxim">
+                     <pb n="104" facs="tcp:99726:59"/>
+                     <head>
+                        <hi>MAXIM XLI.</hi> That we muſt continue in the
+Exerciſe of <hi>Piety.</hi>
+                     </head>
+                     <p>
+                        <hi>J<g ref="char:V">Ʋ</g>DAS</hi> had been ſaved, if nothing were requir'd to
+<hi>Godlineſs,</hi> but noble and daring Beginnings. We muſt con<g ref="char:EOLhyphen"/>tinue in
+well-doing. <hi>He that holds out to the End, ſhall be Sav'd.</hi> Without
+this <hi>Perſeverance,</hi> no Grace, no Glory, no Sal<g ref="char:EOLhyphen"/>vation is to be hop'd
+for.</p>
+                     <p>LET us not perſiſt in GOD'S Service in the time of
+Proſperity only, or while we have no occaſion to follow our Paſ<g ref="char:EOLhyphen"/>ſions,
+or ſo long as our Heart does not find ought in our Duty, that thwarts its
+Inclinations.</p>
+                     <p>LET us with faithfulneſs and conſtan<g ref="char:EOLhyphen"/>cy, apply our
+ſelves to the Practiſe of <hi>God<g ref="char:EOLhyphen"/>lineſs.</hi> It had been much better
+for the Damned, never to have entred into the VVay of
+<hi>Righteouſneſs,</hi> than being once entred, to depart from it.</p>
+                  </div>
+                  <div n="42" type="maxim">
+                     <pb n="105" facs="tcp:99726:59"/>
+                     <head>
+                        <hi>MAXIM XLII.</hi> That we muſt make the Holy Scripture
+the Subject of our continual Meditati<g ref="char:EOLhyphen"/>on.</head>
+                     <p>IN <hi>Prayer</hi> we ſpeak to GOD; and in the
+<hi>Scripture</hi> GOD ſpeaks to us. Do we think GOD will hear us when we
+ſpeak to Him, if we neglect to hear, and care<g ref="char:EOLhyphen"/>fully meditate upon what he
+tells us con<g ref="char:EOLhyphen"/>cerning his Authority over us, and our Duty towards Him?</p>
+                     <p>THE <hi>Scripture</hi> contains the moſt im<g ref="char:EOLhyphen"/>portant Truths
+we can know, the wiſeſt Maxims we can follow in our Converſa<g ref="char:EOLhyphen"/>tion, the
+greateſt Promiſes we can con<g ref="char:EOLhyphen"/>ceive; And yet miſerable VVretches that we
+are, we neglect to apply our ſelves to the reading of it.</p>
+                     <p>WHAT? If this Priviledge were forbidden us, ſhould not we
+look upon ſuch Prohibition, as the greateſt of our Miſ<g ref="char:EOLhyphen"/>fortunes? And
+while we enjoy that Liber<g ref="char:EOLhyphen"/>ty of making it the Subject of our Con<g ref="char:EOLhyphen"/>templation day
+and night, ſhall we be ſo unjuſt, as to read it perfunctorily, and be
+ignorant of its moſt important Pre<g ref="char:EOLhyphen"/>cepts?</p>
+                  </div>
+                  <div n="43" type="maxim">
+                     <pb n="106" facs="tcp:99726:60"/>
+                     <head>
+                        <hi>MAXIM XLIII.</hi> That we ought carefully to apply our
+ſelves to Prayer.</head>
+                     <p>WE can't <hi>live</hi> well, unleſs we know how to
+<hi>pray</hi> well; And there is no Happineſs, but in Conjunction with a Good
+Life. <hi>Holineſs</hi> is that which plea<g ref="char:EOLhyphen"/>ſes GOD; and fervent
+<hi>Prayer</hi> obtains us the <hi>Fruits</hi> of his <hi>Love.</hi>
+                     </p>
+                     <p>PRAYER is the moſt eaſie part of our Duty; Our Needs teach
+it us; It is the moſt Auguſt and Honourable, in that it procures us a
+familiar Converſe with GOD Himſelf. It is alſo the moſt bliſs<g ref="char:EOLhyphen"/>ful;
+for it opens us the Treaſures of Heaven, and Communicates to us every
+<hi>Divine Bleſſing.</hi>
+                     </p>
+                     <p>SHOULD we be debarr'd the Pra<g ref="char:EOLhyphen"/>ctice of it, we ſhould hold it
+for Tyran<g ref="char:EOLhyphen"/>ny, as it would be an impediment to our Felicity and Glory. How then
+can we un<g ref="char:EOLhyphen"/>dervalue the Duty of Prayer, as an unprofitable thing?</p>
+                  </div>
+                  <div n="44" type="maxim">
+                     <pb n="107" facs="tcp:99726:60"/>
+                     <head>
+                        <hi>MAXIM XLIV.</hi> That we muſt always have our Holy
+Baptiſm before our Eyes.</head>
+                     <p>BAPTISM is the Token of our En<g ref="char:EOLhyphen"/>trance into Covenant with GOD.
+In it GOD has offer'd us the Pardon of our Sins, the Guidance of his Grace, and
+the Hope of his Glory; And we on our part, have promis'd to forſake our
+Ini<g ref="char:EOLhyphen"/>quities, ſubmit our ſelves to his Laws, and be faithful to Him unto
+Death.</p>
+                     <p>DO we think it juſt, <hi>GOD</hi> ſhould re<g ref="char:EOLhyphen"/>member his
+Promiſes, when we forget thoſe we have made Him in that Holy Sacrament?
+Does not this Forgetfulneſs favour of Contempt, Unbelief; nay, and Rebellion
+it ſelf?</p>
+                     <p>LET us therefore always ſet before our Eyes our own
+Engagements, as well as our Hopes; our Duty, as well as the Grace <hi>GOD</hi>
+freely offers; our Obliga<g ref="char:EOLhyphen"/>tions to live according to the Rules of
+Chriſtianity, as well as the Glory <hi>GOD</hi> has annex'd to it.</p>
+                  </div>
+                  <div n="45" type="maxim">
+                     <pb n="108" facs="tcp:99726:61"/>
+                     <head>
+                        <hi>MAXIM XLV.</hi> That we ought to remember the
+Promiſes we make to GOD at our Receiving the Lord's Supper.</head>
+                     <p>WE are from our Infancy, entertain'd in God's Service, wherein
+we were ingag'd before we knew the Reward. But we do make a ſolemn Choice of
+it, in our own Perſons, when we preſent our ſelves at the <hi>HOLY
+TABLE.</hi>
+                     </p>
+                     <p>COMMON Senſe alone would not ſuffer us to do a Thing of
+ſuch impor<g ref="char:EOLhyphen"/>tance, without a ſerious conſideration of the Duties it lays
+upon us. It were better never to participate of this <hi>Holy Sacra<g ref="char:EOLhyphen"/>ment,</hi>
+than to do it unprepared and unpro<g ref="char:EOLhyphen"/>fitably.</p>
+                     <p>THE Sacred <hi>Euchariſt</hi> repreſents to us the
+Expiation of our Crimes, and the Horror of them, the ineffable Love of GOD, and
+the infinite Obligations and Ties we have to CHRIST. To ap<g ref="char:EOLhyphen"/>proach his Table,
+without bewailing and forſaking our Sins, without loving and devoting our
+ſelves to Him, is to receive our own Damnation.</p>
+                  </div>
+                  <div n="46" type="maxim">
+                     <pb n="109" facs="tcp:99726:61"/>
+                     <head>
+                        <hi>MAXIM XLVI.</hi> That Charity is to be preferr'd before
+all things.</head>
+                     <p>THERE is nothing more valuable with GOD, than
+<hi>Charity.</hi> He be<g ref="char:EOLhyphen"/>came <hi>Man,</hi> that He might the more ef<g ref="char:EOLhyphen"/>fectually
+preſcribe this Duty to us, and ſuffer'd <hi>Death,</hi> to give us the
+moſt engag<g ref="char:EOLhyphen"/>ing Example of this <hi>Divine Virtue.</hi>
+                     </p>
+                     <p>HE began the Choice of his Diſciples with calling two
+Brothers. And why ſo? But to intimate, that Brotherly Love muſt unite all
+his Diſciples, and Concord be the Badge of <hi>Chriſtianity?</hi>
+                     </p>
+                     <p>WHAT can we with Juſtice prefer before <hi>Love?</hi> Yea,
+what ought not we to do and ſuffer, what Care ſhould not we take, rather
+than violate the Laws of <hi>Charity?</hi>
+                     </p>
+                  </div>
+                  <div n="47" type="maxim">
+                     <pb n="110" facs="tcp:99726:62"/>
+                     <head>
+                        <hi>MAXIM XLVII.</hi> That we ought to prevent the
+Petitions of thoſe, who are in Miſery.</head>
+                     <p>THIS <hi>poor</hi> Wretch is our own Fleſh and Blood, our
+Brother; GOD having made, and <hi>JES<g ref="char:V">Ʋ</g>S CHRIST</hi> redeemed him. How careful
+therefore ought we to be, to relieve his <hi>Neceſſities? GOD</hi>
+Himſelf is pleas'd to become ac<g ref="char:EOLhyphen"/>countable to us for our Liberality, and
+CHRIST will make it an everlaſting Reward.</p>
+                     <p>OUR Brethren's <hi>Miſery</hi> ſhould the more recommend
+them to us. But if that be too weak to move our Pity, at leaſt let the
+Bleſſed Fruits of <hi>Charity,</hi> and the Example of JESUS CHRIST,
+en<g ref="char:EOLhyphen"/>gage us to the Practice of a Duty ſo rea<g ref="char:EOLhyphen"/>ſonable and full of
+Bliſs.</p>
+                     <p>MUST the Money we ſo unjuſtly hoard up, prove our own
+Accuſer? JE<g ref="char:EOLhyphen"/>SUS CHRIST has told us he will take the good we do to thoſe who
+ſtand in need of it, as done to Himſelf; And yet we don't run to prevent
+their asking. Is this our Love to <hi>Life</hi> and <hi>Salvation?</hi>
+                     </p>
+                  </div>
+                  <div n="48" type="maxim">
+                     <pb n="111" facs="tcp:99726:62"/>
+                     <head>
+                        <hi>MAXIM. XLVIII.</hi> That we muſt be meek in reproving
+our Neighbour.</head>
+                     <p>GOD aſſures us, that one of the moſt conſiderable
+Effects of Love is to <hi>reprove</hi> our <hi>Neighbour,</hi> when he ſins.
+And indeed, we have no true Love for him, if we don't endeavour to divert him
+from the way that leads to Death. Beſides, this good Office alſo engages us
+the more forcibly to our own Duty.</p>
+                     <p>THOUGH it be lawful to uſe either mild or ſevere
+Expreſſions, according as it may beſt ſuit with the good of our
+<hi>Neighbour;</hi> yet Sweetneſs and Sincerity muſt always be predominant
+in our Hearts towards him; remembring that GOD's Cauſe is the Diſpute: And
+He is <hi>Love</hi> it ſelf.</p>
+                     <p>LET us <hi>reprove</hi> our <hi>Neighbour</hi> with all
+tenderneſs; and if we do it more earneſt<g ref="char:EOLhyphen"/>ly, at leaſt let nothing of
+bitterneſs or paſſion appear in our Words. As Cha<g ref="char:EOLhyphen"/>rity puts us upon this
+Duty; ſo let us by <pb n="112" facs="tcp:99726:63"/>our manner of doing it, perſwade
+him, it is our Love for him, and not a de<g ref="char:EOLhyphen"/>ſign of inſulting over him, that
+is the Motive.</p>
+                  </div>
+                  <div n="49" type="maxim">
+                     <pb n="131" facs="tcp:99726:63"/>
+                     <head>
+                        <hi>MAXIM XLIX.</hi> That Practice is to be preferr'd
+before Knowledge or Words.</head>
+                     <p>WE ought, with all earneſtneſs, to meditate upon, and
+labour to make our ſelves throughly acquaint<g ref="char:EOLhyphen"/>ed with the Law of GOD. We
+muſt apply our ſelves to the Study of Heavenly Myſteries; and to that
+End, be frequent in the reading and Medita<g ref="char:EOLhyphen"/>tion of the <hi>Holy
+Scripture.</hi>
+                     </p>
+                     <p>IT is our Duty to edify our Neigh<g ref="char:EOLhyphen"/>bour, with our good
+Diſcourſe, and in<g ref="char:EOLhyphen"/>ſtruct him in <hi>Piety.</hi> What greater joy, than to
+be able to impart our Know<g ref="char:EOLhyphen"/>ledge to him! Which ſtill encreaſes as it is
+Communicated: And we, at the ſame time, have the honour of being employ'd by
+GOD, to advance the <hi>Salvation</hi> of his Children.</p>
+                     <p>AFTER all, What Fruit can we pretend to reap from all our
+Lear<g ref="char:EOLhyphen"/>ning and Rhetorick, if the Acts of a Spiritual Life be not exerted by us? 
+<pb n="114" facs="tcp:99726:64"/>What an horrible thing is it to be en<g ref="char:EOLhyphen"/>light'ned, and
+ſpeak like Angels, and yet live like <hi>Devils!</hi> Knowledge ſepa<g ref="char:EOLhyphen"/>rate
+from a good Conſcience, does but ſerve to aggravate our Crimes.</p>
+                  </div>
+                  <div n="50" type="maxim">
+                     <pb n="115" facs="tcp:99726:64"/>
+                     <head>
+                        <hi>MAXIM L.</hi> That we ought to impute all that is good
+in us, to the Grace of God.</head>
+                     <p>THERE is nothing but the <hi>Devil</hi> can make us attribute
+ought to our ſelves in the Work of our <hi>Sal<g ref="char:EOLhyphen"/>vation.</hi> We are born in
+Sin, live in Sin, and ſhould die in Sin, did not GOD'S Grace prevent us.</p>
+                     <p>OUR <hi>Call</hi> to <hi>Faith,</hi> is the Work of his
+<hi>Grace;</hi> Our <hi>Converſion,</hi> the Work of his <hi>Spirit,</hi>
+which overcomes our Averſion; Our <hi>Perſeverance</hi> is the Effect of
+the ſame <hi>Holy Spirit.</hi> The Beginning, Progreſs and End of our
+<hi>Salvation,</hi> are deriv'd from <hi>Him.</hi>
+                     </p>
+                     <p>LET us Confeſs the Truth; If we cannot aſſume ought to
+our ſelves, but Miſery, Corruption, Love to Sin, and <pb n="116" facs="tcp:99726:65"/>Enmity to GOD'S Law, we muſt look upon GOD, as the Sole
+<hi>Author</hi> of our <hi>Regeneration,</hi> and accordingly aſ<g ref="char:EOLhyphen"/>cribe all
+the Glory of it to <hi>Him.</hi>
+                     </p>
+                     <pb facs="tcp:99726:65"/>
+                  </div>
+                  <trailer>THE END.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
